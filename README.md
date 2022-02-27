@@ -1,4 +1,5 @@
-# Source code and data for *Things not Written in Text: Exploring Spatial Commonsense from Visual Signals* (ACL2022 main conference paper).
+# Spatial Commonsense
+Source code and data for *Things not Written in Text: Exploring Spatial Commonsense from Visual Signals* (ACL2022 main conference paper).
 
 ---
 
