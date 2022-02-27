@@ -1,0 +1,500 @@
+{"text": "An ant and a bird.", "question": "Is an ant taller than a bird?", "obj_a": "ant", "obj_b": "bird", "label": 0}
+{"text": "An ant and a cup.", "question": "Is an ant taller than a cup?", "obj_a": "ant", "obj_b": "cup", "label": 0}
+{"text": "An ant and a shoe.", "question": "Is an ant taller than a shoe?", "obj_a": "ant", "obj_b": "shoe", "label": 0}
+{"text": "An ant and a bottle.", "question": "Is an ant taller than a bottle?", "obj_a": "ant", "obj_b": "bottle", "label": 0}
+{"text": "An ant and a mobile phone.", "question": "Is an ant taller than a mobile phone?", "obj_a": "ant", "obj_b": "mobile phone", "label": 0}
+{"text": "An insect and a bird.", "question": "Is an insect taller than a bird?", "obj_a": "insect", "obj_b": "bird", "label": 0}
+{"text": "An insect and a cup.", "question": "Is an insect taller than a cup?", "obj_a": "insect", "obj_b": "cup", "label": 0}
+{"text": "An insect and a shoe.", "question": "Is an insect taller than a shoe?", "obj_a": "insect", "obj_b": "shoe", "label": 0}
+{"text": "An insect and a bottle.", "question": "Is an insect taller than a bottle?", "obj_a": "insect", "obj_b": "bottle", "label": 0}
+{"text": "An insect and a mobile phone.", "question": "Is an insect taller than a mobile phone?", "obj_a": "insect", "obj_b": "mobile phone", "label": 0}
+{"text": "A water drop and a bird.", "question": "Is a water drop taller than a bird?", "obj_a": "water drop", "obj_b": "bird", "label": 0}
+{"text": "A water drop and a cup.", "question": "Is a water drop taller than a cup?", "obj_a": "water drop", "obj_b": "cup", "label": 0}
+{"text": "A water drop and a shoe.", "question": "Is a water drop taller than a shoe?", "obj_a": "water drop", "obj_b": "shoe", "label": 0}
+{"text": "A water drop and a bottle.", "question": "Is a water drop taller than a bottle?", "obj_a": "water drop", "obj_b": "bottle", "label": 0}
+{"text": "A water drop and a mobile phone.", "question": "Is a water drop taller than a mobile phone?", "obj_a": "water drop", "obj_b": "mobile phone", "label": 0}
+{"text": "A bullet and a bird.", "question": "Is a bullet taller than a bird?", "obj_a": "bullet", "obj_b": "bird", "label": 0}
+{"text": "A bullet and a cup.", "question": "Is a bullet taller than a cup?", "obj_a": "bullet", "obj_b": "cup", "label": 0}
+{"text": "A bullet and a shoe.", "question": "Is a bullet taller than a shoe?", "obj_a": "bullet", "obj_b": "shoe", "label": 0}
+{"text": "A bullet and a bottle.", "question": "Is a bullet taller than a bottle?", "obj_a": "bullet", "obj_b": "bottle", "label": 0}
+{"text": "A bullet and a mobile phone.", "question": "Is a bullet taller than a mobile phone?", "obj_a": "bullet", "obj_b": "mobile phone", "label": 0}
+{"text": "A dice and a bird.", "question": "Is a dice taller than a bird?", "obj_a": "dice", "obj_b": "bird", "label": 0}
+{"text": "A dice and a cup.", "question": "Is a dice taller than a cup?", "obj_a": "dice", "obj_b": "cup", "label": 0}
+{"text": "A dice and a shoe.", "question": "Is a dice taller than a shoe?", "obj_a": "dice", "obj_b": "shoe", "label": 0}
+{"text": "A dice and a bottle.", "question": "Is a dice taller than a bottle?", "obj_a": "dice", "obj_b": "bottle", "label": 0}
+{"text": "A dice and a mobile phone.", "question": "Is a dice taller than a mobile phone?", "obj_a": "dice", "obj_b": "mobile phone", "label": 0}
+{"text": "An ant and a table.", "question": "Is an ant taller than a table?", "obj_a": "ant", "obj_b": "table", "label": 0}
+{"text": "An ant and a chair.", "question": "Is an ant taller than a chair?", "obj_a": "ant", "obj_b": "chair", "label": 0}
+{"text": "An ant and a trash can.", "question": "Is an ant taller than a trash can?", "obj_a": "ant", "obj_b": "trash can", "label": 0}
+{"text": "An ant and a sofa.", "question": "Is an ant taller than a sofa?", "obj_a": "ant", "obj_b": "sofa", "label": 0}
+{"text": "An ant and a suitcase.", "question": "Is an ant taller than a suitcase?", "obj_a": "ant", "obj_b": "suitcase", "label": 0}
+{"text": "An insect and a table.", "question": "Is an insect taller than a table?", "obj_a": "insect", "obj_b": "table", "label": 0}
+{"text": "An insect and a chair.", "question": "Is an insect taller than a chair?", "obj_a": "insect", "obj_b": "chair", "label": 0}
+{"text": "An insect and a trash can.", "question": "Is an insect taller than a trash can?", "obj_a": "insect", "obj_b": "trash can", "label": 0}
+{"text": "An insect and a sofa.", "question": "Is an insect taller than a sofa?", "obj_a": "insect", "obj_b": "sofa", "label": 0}
+{"text": "An insect and a suitcase.", "question": "Is an insect taller than a suitcase?", "obj_a": "insect", "obj_b": "suitcase", "label": 0}
+{"text": "A water drop and a table.", "question": "Is a water drop taller than a table?", "obj_a": "water drop", "obj_b": "table", "label": 0}
+{"text": "A water drop and a chair.", "question": "Is a water drop taller than a chair?", "obj_a": "water drop", "obj_b": "chair", "label": 0}
+{"text": "A water drop and a trash can.", "question": "Is a water drop taller than a trash can?", "obj_a": "water drop", "obj_b": "trash can", "label": 0}
+{"text": "A water drop and a sofa.", "question": "Is a water drop taller than a sofa?", "obj_a": "water drop", "obj_b": "sofa", "label": 0}
+{"text": "A water drop and a suitcase.", "question": "Is a water drop taller than a suitcase?", "obj_a": "water drop", "obj_b": "suitcase", "label": 0}
+{"text": "A bullet and a table.", "question": "Is a bullet taller than a table?", "obj_a": "bullet", "obj_b": "table", "label": 0}
+{"text": "A bullet and a chair.", "question": "Is a bullet taller than a chair?", "obj_a": "bullet", "obj_b": "chair", "label": 0}
+{"text": "A bullet and a trash can.", "question": "Is a bullet taller than a trash can?", "obj_a": "bullet", "obj_b": "trash can", "label": 0}
+{"text": "A bullet and a sofa.", "question": "Is a bullet taller than a sofa?", "obj_a": "bullet", "obj_b": "sofa", "label": 0}
+{"text": "A bullet and a suitcase.", "question": "Is a bullet taller than a suitcase?", "obj_a": "bullet", "obj_b": "suitcase", "label": 0}
+{"text": "A dice and a table.", "question": "Is a dice taller than a table?", "obj_a": "dice", "obj_b": "table", "label": 0}
+{"text": "A dice and a chair.", "question": "Is a dice taller than a chair?", "obj_a": "dice", "obj_b": "chair", "label": 0}
+{"text": "A dice and a trash can.", "question": "Is a dice taller than a trash can?", "obj_a": "dice", "obj_b": "trash can", "label": 0}
+{"text": "A dice and a sofa.", "question": "Is a dice taller than a sofa?", "obj_a": "dice", "obj_b": "sofa", "label": 0}
+{"text": "A dice and a suitcase.", "question": "Is a dice taller than a suitcase?", "obj_a": "dice", "obj_b": "suitcase", "label": 0}
+{"text": "An ant and a human.", "question": "Is an ant taller than a human?", "obj_a": "ant", "obj_b": "human", "label": 0}
+{"text": "An ant and a horse.", "question": "Is an ant taller than a horse?", "obj_a": "ant", "obj_b": "horse", "label": 0}
+{"text": "An ant and a bookshelf.", "question": "Is an ant taller than a bookshelf?", "obj_a": "ant", "obj_b": "bookshelf", "label": 0}
+{"text": "An ant and a camel.", "question": "Is an ant taller than a camel?", "obj_a": "ant", "obj_b": "camel", "label": 0}
+{"text": "An ant and a door.", "question": "Is an ant taller than a door?", "obj_a": "ant", "obj_b": "door", "label": 0}
+{"text": "An insect and a human.", "question": "Is an insect taller than a human?", "obj_a": "insect", "obj_b": "human", "label": 0}
+{"text": "An insect and a horse.", "question": "Is an insect taller than a horse?", "obj_a": "insect", "obj_b": "horse", "label": 0}
+{"text": "An insect and a bookshelf.", "question": "Is an insect taller than a bookshelf?", "obj_a": "insect", "obj_b": "bookshelf", "label": 0}
+{"text": "An insect and a camel.", "question": "Is an insect taller than a camel?", "obj_a": "insect", "obj_b": "camel", "label": 0}
+{"text": "An insect and a door.", "question": "Is an insect taller than a door?", "obj_a": "insect", "obj_b": "door", "label": 0}
+{"text": "A water drop and a human.", "question": "Is a water drop taller than a human?", "obj_a": "water drop", "obj_b": "human", "label": 0}
+{"text": "A water drop and a horse.", "question": "Is a water drop taller than a horse?", "obj_a": "water drop", "obj_b": "horse", "label": 0}
+{"text": "A water drop and a bookshelf.", "question": "Is a water drop taller than a bookshelf?", "obj_a": "water drop", "obj_b": "bookshelf", "label": 0}
+{"text": "A water drop and a camel.", "question": "Is a water drop taller than a camel?", "obj_a": "water drop", "obj_b": "camel", "label": 0}
+{"text": "A water drop and a door.", "question": "Is a water drop taller than a door?", "obj_a": "water drop", "obj_b": "door", "label": 0}
+{"text": "A bullet and a human.", "question": "Is a bullet taller than a human?", "obj_a": "bullet", "obj_b": "human", "label": 0}
+{"text": "A bullet and a horse.", "question": "Is a bullet taller than a horse?", "obj_a": "bullet", "obj_b": "horse", "label": 0}
+{"text": "A bullet and a bookshelf.", "question": "Is a bullet taller than a bookshelf?", "obj_a": "bullet", "obj_b": "bookshelf", "label": 0}
+{"text": "A bullet and a camel.", "question": "Is a bullet taller than a camel?", "obj_a": "bullet", "obj_b": "camel", "label": 0}
+{"text": "A bullet and a door.", "question": "Is a bullet taller than a door?", "obj_a": "bullet", "obj_b": "door", "label": 0}
+{"text": "A dice and a human.", "question": "Is a dice taller than a human?", "obj_a": "dice", "obj_b": "human", "label": 0}
+{"text": "A dice and a horse.", "question": "Is a dice taller than a horse?", "obj_a": "dice", "obj_b": "horse", "label": 0}
+{"text": "A dice and a bookshelf.", "question": "Is a dice taller than a bookshelf?", "obj_a": "dice", "obj_b": "bookshelf", "label": 0}
+{"text": "A dice and a camel.", "question": "Is a dice taller than a camel?", "obj_a": "dice", "obj_b": "camel", "label": 0}
+{"text": "A dice and a door.", "question": "Is a dice taller than a door?", "obj_a": "dice", "obj_b": "door", "label": 0}
+{"text": "An ant and an apartment.", "question": "Is an ant taller than an apartment?", "obj_a": "ant", "obj_b": "apartment", "label": 0}
+{"text": "An ant and a theatre.", "question": "Is an ant taller than a theatre?", "obj_a": "ant", "obj_b": "theatre", "label": 0}
+{"text": "An ant and a giraffe.", "question": "Is an ant taller than a giraffe?", "obj_a": "ant", "obj_b": "giraffe", "label": 0}
+{"text": "An ant and a truck.", "question": "Is an ant taller than a truck?", "obj_a": "ant", "obj_b": "truck", "label": 0}
+{"text": "An ant and a street lamp.", "question": "Is an ant taller than a street lamp?", "obj_a": "ant", "obj_b": "street lamp", "label": 0}
+{"text": "An insect and an apartment.", "question": "Is an insect taller than an apartment?", "obj_a": "insect", "obj_b": "apartment", "label": 0}
+{"text": "An insect and a theatre.", "question": "Is an insect taller than a theatre?", "obj_a": "insect", "obj_b": "theatre", "label": 0}
+{"text": "An insect and a giraffe.", "question": "Is an insect taller than a giraffe?", "obj_a": "insect", "obj_b": "giraffe", "label": 0}
+{"text": "An insect and a truck.", "question": "Is an insect taller than a truck?", "obj_a": "insect", "obj_b": "truck", "label": 0}
+{"text": "An insect and a street lamp.", "question": "Is an insect taller than a street lamp?", "obj_a": "insect", "obj_b": "street lamp", "label": 0}
+{"text": "A water drop and an apartment.", "question": "Is a water drop taller than an apartment?", "obj_a": "water drop", "obj_b": "apartment", "label": 0}
+{"text": "A water drop and a theatre.", "question": "Is a water drop taller than a theatre?", "obj_a": "water drop", "obj_b": "theatre", "label": 0}
+{"text": "A water drop and a giraffe.", "question": "Is a water drop taller than a giraffe?", "obj_a": "water drop", "obj_b": "giraffe", "label": 0}
+{"text": "A water drop and a truck.", "question": "Is a water drop taller than a truck?", "obj_a": "water drop", "obj_b": "truck", "label": 0}
+{"text": "A water drop and a street lamp.", "question": "Is a water drop taller than a street lamp?", "obj_a": "water drop", "obj_b": "street lamp", "label": 0}
+{"text": "A bullet and an apartment.", "question": "Is a bullet taller than an apartment?", "obj_a": "bullet", "obj_b": "apartment", "label": 0}
+{"text": "A bullet and a theatre.", "question": "Is a bullet taller than a theatre?", "obj_a": "bullet", "obj_b": "theatre", "label": 0}
+{"text": "A bullet and a giraffe.", "question": "Is a bullet taller than a giraffe?", "obj_a": "bullet", "obj_b": "giraffe", "label": 0}
+{"text": "A bullet and a truck.", "question": "Is a bullet taller than a truck?", "obj_a": "bullet", "obj_b": "truck", "label": 0}
+{"text": "A bullet and a street lamp.", "question": "Is a bullet taller than a street lamp?", "obj_a": "bullet", "obj_b": "street lamp", "label": 0}
+{"text": "A dice and an apartment.", "question": "Is a dice taller than an apartment?", "obj_a": "dice", "obj_b": "apartment", "label": 0}
+{"text": "A dice and a theatre.", "question": "Is a dice taller than a theatre?", "obj_a": "dice", "obj_b": "theatre", "label": 0}
+{"text": "A dice and a giraffe.", "question": "Is a dice taller than a giraffe?", "obj_a": "dice", "obj_b": "giraffe", "label": 0}
+{"text": "A dice and a truck.", "question": "Is a dice taller than a truck?", "obj_a": "dice", "obj_b": "truck", "label": 0}
+{"text": "A dice and a street lamp.", "question": "Is a dice taller than a street lamp?", "obj_a": "dice", "obj_b": "street lamp", "label": 0}
+{"text": "A bird and a table.", "question": "Is a bird taller than a table?", "obj_a": "bird", "obj_b": "table", "label": 0}
+{"text": "A bird and a chair.", "question": "Is a bird taller than a chair?", "obj_a": "bird", "obj_b": "chair", "label": 0}
+{"text": "A bird and a trash can.", "question": "Is a bird taller than a trash can?", "obj_a": "bird", "obj_b": "trash can", "label": 0}
+{"text": "A bird and a sofa.", "question": "Is a bird taller than a sofa?", "obj_a": "bird", "obj_b": "sofa", "label": 0}
+{"text": "A bird and a suitcase.", "question": "Is a bird taller than a suitcase?", "obj_a": "bird", "obj_b": "suitcase", "label": 0}
+{"text": "A cup and a table.", "question": "Is a cup taller than a table?", "obj_a": "cup", "obj_b": "table", "label": 0}
+{"text": "A cup and a chair.", "question": "Is a cup taller than a chair?", "obj_a": "cup", "obj_b": "chair", "label": 0}
+{"text": "A cup and a trash can.", "question": "Is a cup taller than a trash can?", "obj_a": "cup", "obj_b": "trash can", "label": 0}
+{"text": "A cup and a sofa.", "question": "Is a cup taller than a sofa?", "obj_a": "cup", "obj_b": "sofa", "label": 0}
+{"text": "A cup and a suitcase.", "question": "Is a cup taller than a suitcase?", "obj_a": "cup", "obj_b": "suitcase", "label": 0}
+{"text": "A shoe and a table.", "question": "Is a shoe taller than a table?", "obj_a": "shoe", "obj_b": "table", "label": 0}
+{"text": "A shoe and a chair.", "question": "Is a shoe taller than a chair?", "obj_a": "shoe", "obj_b": "chair", "label": 0}
+{"text": "A shoe and a trash can.", "question": "Is a shoe taller than a trash can?", "obj_a": "shoe", "obj_b": "trash can", "label": 0}
+{"text": "A shoe and a sofa.", "question": "Is a shoe taller than a sofa?", "obj_a": "shoe", "obj_b": "sofa", "label": 0}
+{"text": "A shoe and a suitcase.", "question": "Is a shoe taller than a suitcase?", "obj_a": "shoe", "obj_b": "suitcase", "label": 0}
+{"text": "A bottle and a table.", "question": "Is a bottle taller than a table?", "obj_a": "bottle", "obj_b": "table", "label": 0}
+{"text": "A bottle and a chair.", "question": "Is a bottle taller than a chair?", "obj_a": "bottle", "obj_b": "chair", "label": 0}
+{"text": "A bottle and a trash can.", "question": "Is a bottle taller than a trash can?", "obj_a": "bottle", "obj_b": "trash can", "label": 0}
+{"text": "A bottle and a sofa.", "question": "Is a bottle taller than a sofa?", "obj_a": "bottle", "obj_b": "sofa", "label": 0}
+{"text": "A bottle and a suitcase.", "question": "Is a bottle taller than a suitcase?", "obj_a": "bottle", "obj_b": "suitcase", "label": 0}
+{"text": "A mobile phone and a table.", "question": "Is a mobile phone taller than a table?", "obj_a": "mobile phone", "obj_b": "table", "label": 0}
+{"text": "A mobile phone and a chair.", "question": "Is a mobile phone taller than a chair?", "obj_a": "mobile phone", "obj_b": "chair", "label": 0}
+{"text": "A mobile phone and a trash can.", "question": "Is a mobile phone taller than a trash can?", "obj_a": "mobile phone", "obj_b": "trash can", "label": 0}
+{"text": "A mobile phone and a sofa.", "question": "Is a mobile phone taller than a sofa?", "obj_a": "mobile phone", "obj_b": "sofa", "label": 0}
+{"text": "A mobile phone and a suitcase.", "question": "Is a mobile phone taller than a suitcase?", "obj_a": "mobile phone", "obj_b": "suitcase", "label": 0}
+{"text": "A bird and a human.", "question": "Is a bird taller than a human?", "obj_a": "bird", "obj_b": "human", "label": 0}
+{"text": "A bird and a horse.", "question": "Is a bird taller than a horse?", "obj_a": "bird", "obj_b": "horse", "label": 0}
+{"text": "A bird and a bookshelf.", "question": "Is a bird taller than a bookshelf?", "obj_a": "bird", "obj_b": "bookshelf", "label": 0}
+{"text": "A bird and a camel.", "question": "Is a bird taller than a camel?", "obj_a": "bird", "obj_b": "camel", "label": 0}
+{"text": "A bird and a door.", "question": "Is a bird taller than a door?", "obj_a": "bird", "obj_b": "door", "label": 0}
+{"text": "A cup and a human.", "question": "Is a cup taller than a human?", "obj_a": "cup", "obj_b": "human", "label": 0}
+{"text": "A cup and a horse.", "question": "Is a cup taller than a horse?", "obj_a": "cup", "obj_b": "horse", "label": 0}
+{"text": "A cup and a bookshelf.", "question": "Is a cup taller than a bookshelf?", "obj_a": "cup", "obj_b": "bookshelf", "label": 0}
+{"text": "A cup and a camel.", "question": "Is a cup taller than a camel?", "obj_a": "cup", "obj_b": "camel", "label": 0}
+{"text": "A cup and a door.", "question": "Is a cup taller than a door?", "obj_a": "cup", "obj_b": "door", "label": 0}
+{"text": "A shoe and a human.", "question": "Is a shoe taller than a human?", "obj_a": "shoe", "obj_b": "human", "label": 0}
+{"text": "A shoe and a horse.", "question": "Is a shoe taller than a horse?", "obj_a": "shoe", "obj_b": "horse", "label": 0}
+{"text": "A shoe and a bookshelf.", "question": "Is a shoe taller than a bookshelf?", "obj_a": "shoe", "obj_b": "bookshelf", "label": 0}
+{"text": "A shoe and a camel.", "question": "Is a shoe taller than a camel?", "obj_a": "shoe", "obj_b": "camel", "label": 0}
+{"text": "A shoe and a door.", "question": "Is a shoe taller than a door?", "obj_a": "shoe", "obj_b": "door", "label": 0}
+{"text": "A bottle and a human.", "question": "Is a bottle taller than a human?", "obj_a": "bottle", "obj_b": "human", "label": 0}
+{"text": "A bottle and a horse.", "question": "Is a bottle taller than a horse?", "obj_a": "bottle", "obj_b": "horse", "label": 0}
+{"text": "A bottle and a bookshelf.", "question": "Is a bottle taller than a bookshelf?", "obj_a": "bottle", "obj_b": "bookshelf", "label": 0}
+{"text": "A bottle and a camel.", "question": "Is a bottle taller than a camel?", "obj_a": "bottle", "obj_b": "camel", "label": 0}
+{"text": "A bottle and a door.", "question": "Is a bottle taller than a door?", "obj_a": "bottle", "obj_b": "door", "label": 0}
+{"text": "A mobile phone and a human.", "question": "Is a mobile phone taller than a human?", "obj_a": "mobile phone", "obj_b": "human", "label": 0}
+{"text": "A mobile phone and a horse.", "question": "Is a mobile phone taller than a horse?", "obj_a": "mobile phone", "obj_b": "horse", "label": 0}
+{"text": "A mobile phone and a bookshelf.", "question": "Is a mobile phone taller than a bookshelf?", "obj_a": "mobile phone", "obj_b": "bookshelf", "label": 0}
+{"text": "A mobile phone and a camel.", "question": "Is a mobile phone taller than a camel?", "obj_a": "mobile phone", "obj_b": "camel", "label": 0}
+{"text": "A mobile phone and a door.", "question": "Is a mobile phone taller than a door?", "obj_a": "mobile phone", "obj_b": "door", "label": 0}
+{"text": "A bird and an apartment.", "question": "Is a bird taller than an apartment?", "obj_a": "bird", "obj_b": "apartment", "label": 0}
+{"text": "A bird and a theatre.", "question": "Is a bird taller than a theatre?", "obj_a": "bird", "obj_b": "theatre", "label": 0}
+{"text": "A bird and a giraffe.", "question": "Is a bird taller than a giraffe?", "obj_a": "bird", "obj_b": "giraffe", "label": 0}
+{"text": "A bird and a truck.", "question": "Is a bird taller than a truck?", "obj_a": "bird", "obj_b": "truck", "label": 0}
+{"text": "A bird and a street lamp.", "question": "Is a bird taller than a street lamp?", "obj_a": "bird", "obj_b": "street lamp", "label": 0}
+{"text": "A cup and an apartment.", "question": "Is a cup taller than an apartment?", "obj_a": "cup", "obj_b": "apartment", "label": 0}
+{"text": "A cup and a theatre.", "question": "Is a cup taller than a theatre?", "obj_a": "cup", "obj_b": "theatre", "label": 0}
+{"text": "A cup and a giraffe.", "question": "Is a cup taller than a giraffe?", "obj_a": "cup", "obj_b": "giraffe", "label": 0}
+{"text": "A cup and a truck.", "question": "Is a cup taller than a truck?", "obj_a": "cup", "obj_b": "truck", "label": 0}
+{"text": "A cup and a street lamp.", "question": "Is a cup taller than a street lamp?", "obj_a": "cup", "obj_b": "street lamp", "label": 0}
+{"text": "A shoe and an apartment.", "question": "Is a shoe taller than an apartment?", "obj_a": "shoe", "obj_b": "apartment", "label": 0}
+{"text": "A shoe and a theatre.", "question": "Is a shoe taller than a theatre?", "obj_a": "shoe", "obj_b": "theatre", "label": 0}
+{"text": "A shoe and a giraffe.", "question": "Is a shoe taller than a giraffe?", "obj_a": "shoe", "obj_b": "giraffe", "label": 0}
+{"text": "A shoe and a truck.", "question": "Is a shoe taller than a truck?", "obj_a": "shoe", "obj_b": "truck", "label": 0}
+{"text": "A shoe and a street lamp.", "question": "Is a shoe taller than a street lamp?", "obj_a": "shoe", "obj_b": "street lamp", "label": 0}
+{"text": "A bottle and an apartment.", "question": "Is a bottle taller than an apartment?", "obj_a": "bottle", "obj_b": "apartment", "label": 0}
+{"text": "A bottle and a theatre.", "question": "Is a bottle taller than a theatre?", "obj_a": "bottle", "obj_b": "theatre", "label": 0}
+{"text": "A bottle and a giraffe.", "question": "Is a bottle taller than a giraffe?", "obj_a": "bottle", "obj_b": "giraffe", "label": 0}
+{"text": "A bottle and a truck.", "question": "Is a bottle taller than a truck?", "obj_a": "bottle", "obj_b": "truck", "label": 0}
+{"text": "A bottle and a street lamp.", "question": "Is a bottle taller than a street lamp?", "obj_a": "bottle", "obj_b": "street lamp", "label": 0}
+{"text": "A mobile phone and an apartment.", "question": "Is a mobile phone taller than an apartment?", "obj_a": "mobile phone", "obj_b": "apartment", "label": 0}
+{"text": "A mobile phone and a theatre.", "question": "Is a mobile phone taller than a theatre?", "obj_a": "mobile phone", "obj_b": "theatre", "label": 0}
+{"text": "A mobile phone and a giraffe.", "question": "Is a mobile phone taller than a giraffe?", "obj_a": "mobile phone", "obj_b": "giraffe", "label": 0}
+{"text": "A mobile phone and a truck.", "question": "Is a mobile phone taller than a truck?", "obj_a": "mobile phone", "obj_b": "truck", "label": 0}
+{"text": "A mobile phone and a street lamp.", "question": "Is a mobile phone taller than a street lamp?", "obj_a": "mobile phone", "obj_b": "street lamp", "label": 0}
+{"text": "A table and a human.", "question": "Is a table taller than a human?", "obj_a": "table", "obj_b": "human", "label": 0}
+{"text": "A table and a horse.", "question": "Is a table taller than a horse?", "obj_a": "table", "obj_b": "horse", "label": 0}
+{"text": "A table and a bookshelf.", "question": "Is a table taller than a bookshelf?", "obj_a": "table", "obj_b": "bookshelf", "label": 0}
+{"text": "A table and a camel.", "question": "Is a table taller than a camel?", "obj_a": "table", "obj_b": "camel", "label": 0}
+{"text": "A table and a door.", "question": "Is a table taller than a door?", "obj_a": "table", "obj_b": "door", "label": 0}
+{"text": "A chair and a human.", "question": "Is a chair taller than a human?", "obj_a": "chair", "obj_b": "human", "label": 0}
+{"text": "A chair and a horse.", "question": "Is a chair taller than a horse?", "obj_a": "chair", "obj_b": "horse", "label": 0}
+{"text": "A chair and a bookshelf.", "question": "Is a chair taller than a bookshelf?", "obj_a": "chair", "obj_b": "bookshelf", "label": 0}
+{"text": "A chair and a camel.", "question": "Is a chair taller than a camel?", "obj_a": "chair", "obj_b": "camel", "label": 0}
+{"text": "A chair and a door.", "question": "Is a chair taller than a door?", "obj_a": "chair", "obj_b": "door", "label": 0}
+{"text": "A trash can and a human.", "question": "Is a trash can taller than a human?", "obj_a": "trash can", "obj_b": "human", "label": 0}
+{"text": "A trash can and a horse.", "question": "Is a trash can taller than a horse?", "obj_a": "trash can", "obj_b": "horse", "label": 0}
+{"text": "A trash can and a bookshelf.", "question": "Is a trash can taller than a bookshelf?", "obj_a": "trash can", "obj_b": "bookshelf", "label": 0}
+{"text": "A trash can and a camel.", "question": "Is a trash can taller than a camel?", "obj_a": "trash can", "obj_b": "camel", "label": 0}
+{"text": "A trash can and a door.", "question": "Is a trash can taller than a door?", "obj_a": "trash can", "obj_b": "door", "label": 0}
+{"text": "A sofa and a human.", "question": "Is a sofa taller than a human?", "obj_a": "sofa", "obj_b": "human", "label": 0}
+{"text": "A sofa and a horse.", "question": "Is a sofa taller than a horse?", "obj_a": "sofa", "obj_b": "horse", "label": 0}
+{"text": "A sofa and a bookshelf.", "question": "Is a sofa taller than a bookshelf?", "obj_a": "sofa", "obj_b": "bookshelf", "label": 0}
+{"text": "A sofa and a camel.", "question": "Is a sofa taller than a camel?", "obj_a": "sofa", "obj_b": "camel", "label": 0}
+{"text": "A sofa and a door.", "question": "Is a sofa taller than a door?", "obj_a": "sofa", "obj_b": "door", "label": 0}
+{"text": "A suitcase and a human.", "question": "Is a suitcase taller than a human?", "obj_a": "suitcase", "obj_b": "human", "label": 0}
+{"text": "A suitcase and a horse.", "question": "Is a suitcase taller than a horse?", "obj_a": "suitcase", "obj_b": "horse", "label": 0}
+{"text": "A suitcase and a bookshelf.", "question": "Is a suitcase taller than a bookshelf?", "obj_a": "suitcase", "obj_b": "bookshelf", "label": 0}
+{"text": "A suitcase and a camel.", "question": "Is a suitcase taller than a camel?", "obj_a": "suitcase", "obj_b": "camel", "label": 0}
+{"text": "A suitcase and a door.", "question": "Is a suitcase taller than a door?", "obj_a": "suitcase", "obj_b": "door", "label": 0}
+{"text": "A table and an apartment.", "question": "Is a table taller than an apartment?", "obj_a": "table", "obj_b": "apartment", "label": 0}
+{"text": "A table and a theatre.", "question": "Is a table taller than a theatre?", "obj_a": "table", "obj_b": "theatre", "label": 0}
+{"text": "A table and a giraffe.", "question": "Is a table taller than a giraffe?", "obj_a": "table", "obj_b": "giraffe", "label": 0}
+{"text": "A table and a truck.", "question": "Is a table taller than a truck?", "obj_a": "table", "obj_b": "truck", "label": 0}
+{"text": "A table and a street lamp.", "question": "Is a table taller than a street lamp?", "obj_a": "table", "obj_b": "street lamp", "label": 0}
+{"text": "A chair and an apartment.", "question": "Is a chair taller than an apartment?", "obj_a": "chair", "obj_b": "apartment", "label": 0}
+{"text": "A chair and a theatre.", "question": "Is a chair taller than a theatre?", "obj_a": "chair", "obj_b": "theatre", "label": 0}
+{"text": "A chair and a giraffe.", "question": "Is a chair taller than a giraffe?", "obj_a": "chair", "obj_b": "giraffe", "label": 0}
+{"text": "A chair and a truck.", "question": "Is a chair taller than a truck?", "obj_a": "chair", "obj_b": "truck", "label": 0}
+{"text": "A chair and a street lamp.", "question": "Is a chair taller than a street lamp?", "obj_a": "chair", "obj_b": "street lamp", "label": 0}
+{"text": "A trash can and an apartment.", "question": "Is a trash can taller than an apartment?", "obj_a": "trash can", "obj_b": "apartment", "label": 0}
+{"text": "A trash can and a theatre.", "question": "Is a trash can taller than a theatre?", "obj_a": "trash can", "obj_b": "theatre", "label": 0}
+{"text": "A trash can and a giraffe.", "question": "Is a trash can taller than a giraffe?", "obj_a": "trash can", "obj_b": "giraffe", "label": 0}
+{"text": "A trash can and a truck.", "question": "Is a trash can taller than a truck?", "obj_a": "trash can", "obj_b": "truck", "label": 0}
+{"text": "A trash can and a street lamp.", "question": "Is a trash can taller than a street lamp?", "obj_a": "trash can", "obj_b": "street lamp", "label": 0}
+{"text": "A sofa and an apartment.", "question": "Is a sofa taller than an apartment?", "obj_a": "sofa", "obj_b": "apartment", "label": 0}
+{"text": "A sofa and a theatre.", "question": "Is a sofa taller than a theatre?", "obj_a": "sofa", "obj_b": "theatre", "label": 0}
+{"text": "A sofa and a giraffe.", "question": "Is a sofa taller than a giraffe?", "obj_a": "sofa", "obj_b": "giraffe", "label": 0}
+{"text": "A sofa and a truck.", "question": "Is a sofa taller than a truck?", "obj_a": "sofa", "obj_b": "truck", "label": 0}
+{"text": "A sofa and a street lamp.", "question": "Is a sofa taller than a street lamp?", "obj_a": "sofa", "obj_b": "street lamp", "label": 0}
+{"text": "A suitcase and an apartment.", "question": "Is a suitcase taller than an apartment?", "obj_a": "suitcase", "obj_b": "apartment", "label": 0}
+{"text": "A suitcase and a theatre.", "question": "Is a suitcase taller than a theatre?", "obj_a": "suitcase", "obj_b": "theatre", "label": 0}
+{"text": "A suitcase and a giraffe.", "question": "Is a suitcase taller than a giraffe?", "obj_a": "suitcase", "obj_b": "giraffe", "label": 0}
+{"text": "A suitcase and a truck.", "question": "Is a suitcase taller than a truck?", "obj_a": "suitcase", "obj_b": "truck", "label": 0}
+{"text": "A suitcase and a street lamp.", "question": "Is a suitcase taller than a street lamp?", "obj_a": "suitcase", "obj_b": "street lamp", "label": 0}
+{"text": "A human and an apartment.", "question": "Is a human taller than an apartment?", "obj_a": "human", "obj_b": "apartment", "label": 0}
+{"text": "A human and a theatre.", "question": "Is a human taller than a theatre?", "obj_a": "human", "obj_b": "theatre", "label": 0}
+{"text": "A human and a giraffe.", "question": "Is a human taller than a giraffe?", "obj_a": "human", "obj_b": "giraffe", "label": 0}
+{"text": "A human and a truck.", "question": "Is a human taller than a truck?", "obj_a": "human", "obj_b": "truck", "label": 0}
+{"text": "A human and a street lamp.", "question": "Is a human taller than a street lamp?", "obj_a": "human", "obj_b": "street lamp", "label": 0}
+{"text": "A horse and an apartment.", "question": "Is a horse taller than an apartment?", "obj_a": "horse", "obj_b": "apartment", "label": 0}
+{"text": "A horse and a theatre.", "question": "Is a horse taller than a theatre?", "obj_a": "horse", "obj_b": "theatre", "label": 0}
+{"text": "A horse and a giraffe.", "question": "Is a horse taller than a giraffe?", "obj_a": "horse", "obj_b": "giraffe", "label": 0}
+{"text": "A horse and a truck.", "question": "Is a horse taller than a truck?", "obj_a": "horse", "obj_b": "truck", "label": 0}
+{"text": "A horse and a street lamp.", "question": "Is a horse taller than a street lamp?", "obj_a": "horse", "obj_b": "street lamp", "label": 0}
+{"text": "A bookshelf and an apartment.", "question": "Is a bookshelf taller than an apartment?", "obj_a": "bookshelf", "obj_b": "apartment", "label": 0}
+{"text": "A bookshelf and a theatre.", "question": "Is a bookshelf taller than a theatre?", "obj_a": "bookshelf", "obj_b": "theatre", "label": 0}
+{"text": "A bookshelf and a giraffe.", "question": "Is a bookshelf taller than a giraffe?", "obj_a": "bookshelf", "obj_b": "giraffe", "label": 0}
+{"text": "A bookshelf and a truck.", "question": "Is a bookshelf taller than a truck?", "obj_a": "bookshelf", "obj_b": "truck", "label": 0}
+{"text": "A bookshelf and a street lamp.", "question": "Is a bookshelf taller than a street lamp?", "obj_a": "bookshelf", "obj_b": "street lamp", "label": 0}
+{"text": "A camel and an apartment.", "question": "Is a camel taller than an apartment?", "obj_a": "camel", "obj_b": "apartment", "label": 0}
+{"text": "A camel and a theatre.", "question": "Is a camel taller than a theatre?", "obj_a": "camel", "obj_b": "theatre", "label": 0}
+{"text": "A camel and a giraffe.", "question": "Is a camel taller than a giraffe?", "obj_a": "camel", "obj_b": "giraffe", "label": 0}
+{"text": "A camel and a truck.", "question": "Is a camel taller than a truck?", "obj_a": "camel", "obj_b": "truck", "label": 0}
+{"text": "A camel and a street lamp.", "question": "Is a camel taller than a street lamp?", "obj_a": "camel", "obj_b": "street lamp", "label": 0}
+{"text": "A door and an apartment.", "question": "Is a door taller than an apartment?", "obj_a": "door", "obj_b": "apartment", "label": 0}
+{"text": "A door and a theatre.", "question": "Is a door taller than a theatre?", "obj_a": "door", "obj_b": "theatre", "label": 0}
+{"text": "A door and a giraffe.", "question": "Is a door taller than a giraffe?", "obj_a": "door", "obj_b": "giraffe", "label": 0}
+{"text": "A door and a truck.", "question": "Is a door taller than a truck?", "obj_a": "door", "obj_b": "truck", "label": 0}
+{"text": "A door and a street lamp.", "question": "Is a door taller than a street lamp?", "obj_a": "door", "obj_b": "street lamp", "label": 0}
+{"text": "A bird and an ant.", "question": "Is an ant shorter than a bird?", "obj_a": "bird", "obj_b": "ant", "label": 1}
+{"text": "A cup and an ant.", "question": "Is an ant shorter than a cup?", "obj_a": "cup", "obj_b": "ant", "label": 1}
+{"text": "A shoe and an ant.", "question": "Is an ant shorter than a shoe?", "obj_a": "shoe", "obj_b": "ant", "label": 1}
+{"text": "A bottle and an ant.", "question": "Is an ant shorter than a bottle?", "obj_a": "bottle", "obj_b": "ant", "label": 1}
+{"text": "A mobile phone and an ant.", "question": "Is an ant shorter than a mobile phone?", "obj_a": "mobile phone", "obj_b": "ant", "label": 1}
+{"text": "A bird and an insect.", "question": "Is an insect shorter than a bird?", "obj_a": "bird", "obj_b": "insect", "label": 1}
+{"text": "A cup and an insect.", "question": "Is an insect shorter than a cup?", "obj_a": "cup", "obj_b": "insect", "label": 1}
+{"text": "A shoe and an insect.", "question": "Is an insect shorter than a shoe?", "obj_a": "shoe", "obj_b": "insect", "label": 1}
+{"text": "A bottle and an insect.", "question": "Is an insect shorter than a bottle?", "obj_a": "bottle", "obj_b": "insect", "label": 1}
+{"text": "A mobile phone and an insect.", "question": "Is an insect shorter than a mobile phone?", "obj_a": "mobile phone", "obj_b": "insect", "label": 1}
+{"text": "A bird and a water drop.", "question": "Is a water drop shorter than a bird?", "obj_a": "bird", "obj_b": "water drop", "label": 1}
+{"text": "A cup and a water drop.", "question": "Is a water drop shorter than a cup?", "obj_a": "cup", "obj_b": "water drop", "label": 1}
+{"text": "A shoe and a water drop.", "question": "Is a water drop shorter than a shoe?", "obj_a": "shoe", "obj_b": "water drop", "label": 1}
+{"text": "A bottle and a water drop.", "question": "Is a water drop shorter than a bottle?", "obj_a": "bottle", "obj_b": "water drop", "label": 1}
+{"text": "A mobile phone and a water drop.", "question": "Is a water drop shorter than a mobile phone?", "obj_a": "mobile phone", "obj_b": "water drop", "label": 1}
+{"text": "A bird and a bullet.", "question": "Is a bullet shorter than a bird?", "obj_a": "bird", "obj_b": "bullet", "label": 1}
+{"text": "A cup and a bullet.", "question": "Is a bullet shorter than a cup?", "obj_a": "cup", "obj_b": "bullet", "label": 1}
+{"text": "A shoe and a bullet.", "question": "Is a bullet shorter than a shoe?", "obj_a": "shoe", "obj_b": "bullet", "label": 1}
+{"text": "A bottle and a bullet.", "question": "Is a bullet shorter than a bottle?", "obj_a": "bottle", "obj_b": "bullet", "label": 1}
+{"text": "A mobile phone and a bullet.", "question": "Is a bullet shorter than a mobile phone?", "obj_a": "mobile phone", "obj_b": "bullet", "label": 1}
+{"text": "A bird and a dice.", "question": "Is a dice shorter than a bird?", "obj_a": "bird", "obj_b": "dice", "label": 1}
+{"text": "A cup and a dice.", "question": "Is a dice shorter than a cup?", "obj_a": "cup", "obj_b": "dice", "label": 1}
+{"text": "A shoe and a dice.", "question": "Is a dice shorter than a shoe?", "obj_a": "shoe", "obj_b": "dice", "label": 1}
+{"text": "A bottle and a dice.", "question": "Is a dice shorter than a bottle?", "obj_a": "bottle", "obj_b": "dice", "label": 1}
+{"text": "A mobile phone and a dice.", "question": "Is a dice shorter than a mobile phone?", "obj_a": "mobile phone", "obj_b": "dice", "label": 1}
+{"text": "A table and an ant.", "question": "Is an ant shorter than a table?", "obj_a": "table", "obj_b": "ant", "label": 1}
+{"text": "A chair and an ant.", "question": "Is an ant shorter than a chair?", "obj_a": "chair", "obj_b": "ant", "label": 1}
+{"text": "A trash can and an ant.", "question": "Is an ant shorter than a trash can?", "obj_a": "trash can", "obj_b": "ant", "label": 1}
+{"text": "A sofa and an ant.", "question": "Is an ant shorter than a sofa?", "obj_a": "sofa", "obj_b": "ant", "label": 1}
+{"text": "A suitcase and an ant.", "question": "Is an ant shorter than a suitcase?", "obj_a": "suitcase", "obj_b": "ant", "label": 1}
+{"text": "A table and an insect.", "question": "Is an insect shorter than a table?", "obj_a": "table", "obj_b": "insect", "label": 1}
+{"text": "A chair and an insect.", "question": "Is an insect shorter than a chair?", "obj_a": "chair", "obj_b": "insect", "label": 1}
+{"text": "A trash can and an insect.", "question": "Is an insect shorter than a trash can?", "obj_a": "trash can", "obj_b": "insect", "label": 1}
+{"text": "A sofa and an insect.", "question": "Is an insect shorter than a sofa?", "obj_a": "sofa", "obj_b": "insect", "label": 1}
+{"text": "A suitcase and an insect.", "question": "Is an insect shorter than a suitcase?", "obj_a": "suitcase", "obj_b": "insect", "label": 1}
+{"text": "A table and a water drop.", "question": "Is a water drop shorter than a table?", "obj_a": "table", "obj_b": "water drop", "label": 1}
+{"text": "A chair and a water drop.", "question": "Is a water drop shorter than a chair?", "obj_a": "chair", "obj_b": "water drop", "label": 1}
+{"text": "A trash can and a water drop.", "question": "Is a water drop shorter than a trash can?", "obj_a": "trash can", "obj_b": "water drop", "label": 1}
+{"text": "A sofa and a water drop.", "question": "Is a water drop shorter than a sofa?", "obj_a": "sofa", "obj_b": "water drop", "label": 1}
+{"text": "A suitcase and a water drop.", "question": "Is a water drop shorter than a suitcase?", "obj_a": "suitcase", "obj_b": "water drop", "label": 1}
+{"text": "A table and a bullet.", "question": "Is a bullet shorter than a table?", "obj_a": "table", "obj_b": "bullet", "label": 1}
+{"text": "A chair and a bullet.", "question": "Is a bullet shorter than a chair?", "obj_a": "chair", "obj_b": "bullet", "label": 1}
+{"text": "A trash can and a bullet.", "question": "Is a bullet shorter than a trash can?", "obj_a": "trash can", "obj_b": "bullet", "label": 1}
+{"text": "A sofa and a bullet.", "question": "Is a bullet shorter than a sofa?", "obj_a": "sofa", "obj_b": "bullet", "label": 1}
+{"text": "A suitcase and a bullet.", "question": "Is a bullet shorter than a suitcase?", "obj_a": "suitcase", "obj_b": "bullet", "label": 1}
+{"text": "A table and a dice.", "question": "Is a dice shorter than a table?", "obj_a": "table", "obj_b": "dice", "label": 1}
+{"text": "A chair and a dice.", "question": "Is a dice shorter than a chair?", "obj_a": "chair", "obj_b": "dice", "label": 1}
+{"text": "A trash can and a dice.", "question": "Is a dice shorter than a trash can?", "obj_a": "trash can", "obj_b": "dice", "label": 1}
+{"text": "A sofa and a dice.", "question": "Is a dice shorter than a sofa?", "obj_a": "sofa", "obj_b": "dice", "label": 1}
+{"text": "A suitcase and a dice.", "question": "Is a dice shorter than a suitcase?", "obj_a": "suitcase", "obj_b": "dice", "label": 1}
+{"text": "A human and an ant.", "question": "Is an ant shorter than a human?", "obj_a": "human", "obj_b": "ant", "label": 1}
+{"text": "A horse and an ant.", "question": "Is an ant shorter than a horse?", "obj_a": "horse", "obj_b": "ant", "label": 1}
+{"text": "A bookshelf and an ant.", "question": "Is an ant shorter than a bookshelf?", "obj_a": "bookshelf", "obj_b": "ant", "label": 1}
+{"text": "A camel and an ant.", "question": "Is an ant shorter than a camel?", "obj_a": "camel", "obj_b": "ant", "label": 1}
+{"text": "A door and an ant.", "question": "Is an ant shorter than a door?", "obj_a": "door", "obj_b": "ant", "label": 1}
+{"text": "A human and an insect.", "question": "Is an insect shorter than a human?", "obj_a": "human", "obj_b": "insect", "label": 1}
+{"text": "A horse and an insect.", "question": "Is an insect shorter than a horse?", "obj_a": "horse", "obj_b": "insect", "label": 1}
+{"text": "A bookshelf and an insect.", "question": "Is an insect shorter than a bookshelf?", "obj_a": "bookshelf", "obj_b": "insect", "label": 1}
+{"text": "A camel and an insect.", "question": "Is an insect shorter than a camel?", "obj_a": "camel", "obj_b": "insect", "label": 1}
+{"text": "A door and an insect.", "question": "Is an insect shorter than a door?", "obj_a": "door", "obj_b": "insect", "label": 1}
+{"text": "A human and a water drop.", "question": "Is a water drop shorter than a human?", "obj_a": "human", "obj_b": "water drop", "label": 1}
+{"text": "A horse and a water drop.", "question": "Is a water drop shorter than a horse?", "obj_a": "horse", "obj_b": "water drop", "label": 1}
+{"text": "A bookshelf and a water drop.", "question": "Is a water drop shorter than a bookshelf?", "obj_a": "bookshelf", "obj_b": "water drop", "label": 1}
+{"text": "A camel and a water drop.", "question": "Is a water drop shorter than a camel?", "obj_a": "camel", "obj_b": "water drop", "label": 1}
+{"text": "A door and a water drop.", "question": "Is a water drop shorter than a door?", "obj_a": "door", "obj_b": "water drop", "label": 1}
+{"text": "A human and a bullet.", "question": "Is a bullet shorter than a human?", "obj_a": "human", "obj_b": "bullet", "label": 1}
+{"text": "A horse and a bullet.", "question": "Is a bullet shorter than a horse?", "obj_a": "horse", "obj_b": "bullet", "label": 1}
+{"text": "A bookshelf and a bullet.", "question": "Is a bullet shorter than a bookshelf?", "obj_a": "bookshelf", "obj_b": "bullet", "label": 1}
+{"text": "A camel and a bullet.", "question": "Is a bullet shorter than a camel?", "obj_a": "camel", "obj_b": "bullet", "label": 1}
+{"text": "A door and a bullet.", "question": "Is a bullet shorter than a door?", "obj_a": "door", "obj_b": "bullet", "label": 1}
+{"text": "A human and a dice.", "question": "Is a dice shorter than a human?", "obj_a": "human", "obj_b": "dice", "label": 1}
+{"text": "A horse and a dice.", "question": "Is a dice shorter than a horse?", "obj_a": "horse", "obj_b": "dice", "label": 1}
+{"text": "A bookshelf and a dice.", "question": "Is a dice shorter than a bookshelf?", "obj_a": "bookshelf", "obj_b": "dice", "label": 1}
+{"text": "A camel and a dice.", "question": "Is a dice shorter than a camel?", "obj_a": "camel", "obj_b": "dice", "label": 1}
+{"text": "A door and a dice.", "question": "Is a dice shorter than a door?", "obj_a": "door", "obj_b": "dice", "label": 1}
+{"text": "An apartment and an ant.", "question": "Is an ant shorter than an apartment?", "obj_a": "apartment", "obj_b": "ant", "label": 1}
+{"text": "A theatre and an ant.", "question": "Is an ant shorter than a theatre?", "obj_a": "theatre", "obj_b": "ant", "label": 1}
+{"text": "A giraffe and an ant.", "question": "Is an ant shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "ant", "label": 1}
+{"text": "A truck and an ant.", "question": "Is an ant shorter than a truck?", "obj_a": "truck", "obj_b": "ant", "label": 1}
+{"text": "A street lamp and an ant.", "question": "Is an ant shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "ant", "label": 1}
+{"text": "An apartment and an insect.", "question": "Is an insect shorter than an apartment?", "obj_a": "apartment", "obj_b": "insect", "label": 1}
+{"text": "A theatre and an insect.", "question": "Is an insect shorter than a theatre?", "obj_a": "theatre", "obj_b": "insect", "label": 1}
+{"text": "A giraffe and an insect.", "question": "Is an insect shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "insect", "label": 1}
+{"text": "A truck and an insect.", "question": "Is an insect shorter than a truck?", "obj_a": "truck", "obj_b": "insect", "label": 1}
+{"text": "A street lamp and an insect.", "question": "Is an insect shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "insect", "label": 1}
+{"text": "An apartment and a water drop.", "question": "Is a water drop shorter than an apartment?", "obj_a": "apartment", "obj_b": "water drop", "label": 1}
+{"text": "A theatre and a water drop.", "question": "Is a water drop shorter than a theatre?", "obj_a": "theatre", "obj_b": "water drop", "label": 1}
+{"text": "A giraffe and a water drop.", "question": "Is a water drop shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "water drop", "label": 1}
+{"text": "A truck and a water drop.", "question": "Is a water drop shorter than a truck?", "obj_a": "truck", "obj_b": "water drop", "label": 1}
+{"text": "A street lamp and a water drop.", "question": "Is a water drop shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "water drop", "label": 1}
+{"text": "An apartment and a bullet.", "question": "Is a bullet shorter than an apartment?", "obj_a": "apartment", "obj_b": "bullet", "label": 1}
+{"text": "A theatre and a bullet.", "question": "Is a bullet shorter than a theatre?", "obj_a": "theatre", "obj_b": "bullet", "label": 1}
+{"text": "A giraffe and a bullet.", "question": "Is a bullet shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "bullet", "label": 1}
+{"text": "A truck and a bullet.", "question": "Is a bullet shorter than a truck?", "obj_a": "truck", "obj_b": "bullet", "label": 1}
+{"text": "A street lamp and a bullet.", "question": "Is a bullet shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "bullet", "label": 1}
+{"text": "An apartment and a dice.", "question": "Is a dice shorter than an apartment?", "obj_a": "apartment", "obj_b": "dice", "label": 1}
+{"text": "A theatre and a dice.", "question": "Is a dice shorter than a theatre?", "obj_a": "theatre", "obj_b": "dice", "label": 1}
+{"text": "A giraffe and a dice.", "question": "Is a dice shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "dice", "label": 1}
+{"text": "A truck and a dice.", "question": "Is a dice shorter than a truck?", "obj_a": "truck", "obj_b": "dice", "label": 1}
+{"text": "A street lamp and a dice.", "question": "Is a dice shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "dice", "label": 1}
+{"text": "A table and a bird.", "question": "Is a bird shorter than a table?", "obj_a": "table", "obj_b": "bird", "label": 1}
+{"text": "A chair and a bird.", "question": "Is a bird shorter than a chair?", "obj_a": "chair", "obj_b": "bird", "label": 1}
+{"text": "A trash can and a bird.", "question": "Is a bird shorter than a trash can?", "obj_a": "trash can", "obj_b": "bird", "label": 1}
+{"text": "A sofa and a bird.", "question": "Is a bird shorter than a sofa?", "obj_a": "sofa", "obj_b": "bird", "label": 1}
+{"text": "A suitcase and a bird.", "question": "Is a bird shorter than a suitcase?", "obj_a": "suitcase", "obj_b": "bird", "label": 1}
+{"text": "A table and a cup.", "question": "Is a cup shorter than a table?", "obj_a": "table", "obj_b": "cup", "label": 1}
+{"text": "A chair and a cup.", "question": "Is a cup shorter than a chair?", "obj_a": "chair", "obj_b": "cup", "label": 1}
+{"text": "A trash can and a cup.", "question": "Is a cup shorter than a trash can?", "obj_a": "trash can", "obj_b": "cup", "label": 1}
+{"text": "A sofa and a cup.", "question": "Is a cup shorter than a sofa?", "obj_a": "sofa", "obj_b": "cup", "label": 1}
+{"text": "A suitcase and a cup.", "question": "Is a cup shorter than a suitcase?", "obj_a": "suitcase", "obj_b": "cup", "label": 1}
+{"text": "A table and a shoe.", "question": "Is a shoe shorter than a table?", "obj_a": "table", "obj_b": "shoe", "label": 1}
+{"text": "A chair and a shoe.", "question": "Is a shoe shorter than a chair?", "obj_a": "chair", "obj_b": "shoe", "label": 1}
+{"text": "A trash can and a shoe.", "question": "Is a shoe shorter than a trash can?", "obj_a": "trash can", "obj_b": "shoe", "label": 1}
+{"text": "A sofa and a shoe.", "question": "Is a shoe shorter than a sofa?", "obj_a": "sofa", "obj_b": "shoe", "label": 1}
+{"text": "A suitcase and a shoe.", "question": "Is a shoe shorter than a suitcase?", "obj_a": "suitcase", "obj_b": "shoe", "label": 1}
+{"text": "A table and a bottle.", "question": "Is a bottle shorter than a table?", "obj_a": "table", "obj_b": "bottle", "label": 1}
+{"text": "A chair and a bottle.", "question": "Is a bottle shorter than a chair?", "obj_a": "chair", "obj_b": "bottle", "label": 1}
+{"text": "A trash can and a bottle.", "question": "Is a bottle shorter than a trash can?", "obj_a": "trash can", "obj_b": "bottle", "label": 1}
+{"text": "A sofa and a bottle.", "question": "Is a bottle shorter than a sofa?", "obj_a": "sofa", "obj_b": "bottle", "label": 1}
+{"text": "A suitcase and a bottle.", "question": "Is a bottle shorter than a suitcase?", "obj_a": "suitcase", "obj_b": "bottle", "label": 1}
+{"text": "A table and a mobile phone.", "question": "Is a mobile phone shorter than a table?", "obj_a": "table", "obj_b": "mobile phone", "label": 1}
+{"text": "A chair and a mobile phone.", "question": "Is a mobile phone shorter than a chair?", "obj_a": "chair", "obj_b": "mobile phone", "label": 1}
+{"text": "A trash can and a mobile phone.", "question": "Is a mobile phone shorter than a trash can?", "obj_a": "trash can", "obj_b": "mobile phone", "label": 1}
+{"text": "A sofa and a mobile phone.", "question": "Is a mobile phone shorter than a sofa?", "obj_a": "sofa", "obj_b": "mobile phone", "label": 1}
+{"text": "A suitcase and a mobile phone.", "question": "Is a mobile phone shorter than a suitcase?", "obj_a": "suitcase", "obj_b": "mobile phone", "label": 1}
+{"text": "A human and a bird.", "question": "Is a bird shorter than a human?", "obj_a": "human", "obj_b": "bird", "label": 1}
+{"text": "A horse and a bird.", "question": "Is a bird shorter than a horse?", "obj_a": "horse", "obj_b": "bird", "label": 1}
+{"text": "A bookshelf and a bird.", "question": "Is a bird shorter than a bookshelf?", "obj_a": "bookshelf", "obj_b": "bird", "label": 1}
+{"text": "A camel and a bird.", "question": "Is a bird shorter than a camel?", "obj_a": "camel", "obj_b": "bird", "label": 1}
+{"text": "A door and a bird.", "question": "Is a bird shorter than a door?", "obj_a": "door", "obj_b": "bird", "label": 1}
+{"text": "A human and a cup.", "question": "Is a cup shorter than a human?", "obj_a": "human", "obj_b": "cup", "label": 1}
+{"text": "A horse and a cup.", "question": "Is a cup shorter than a horse?", "obj_a": "horse", "obj_b": "cup", "label": 1}
+{"text": "A bookshelf and a cup.", "question": "Is a cup shorter than a bookshelf?", "obj_a": "bookshelf", "obj_b": "cup", "label": 1}
+{"text": "A camel and a cup.", "question": "Is a cup shorter than a camel?", "obj_a": "camel", "obj_b": "cup", "label": 1}
+{"text": "A door and a cup.", "question": "Is a cup shorter than a door?", "obj_a": "door", "obj_b": "cup", "label": 1}
+{"text": "A human and a shoe.", "question": "Is a shoe shorter than a human?", "obj_a": "human", "obj_b": "shoe", "label": 1}
+{"text": "A horse and a shoe.", "question": "Is a shoe shorter than a horse?", "obj_a": "horse", "obj_b": "shoe", "label": 1}
+{"text": "A bookshelf and a shoe.", "question": "Is a shoe shorter than a bookshelf?", "obj_a": "bookshelf", "obj_b": "shoe", "label": 1}
+{"text": "A camel and a shoe.", "question": "Is a shoe shorter than a camel?", "obj_a": "camel", "obj_b": "shoe", "label": 1}
+{"text": "A door and a shoe.", "question": "Is a shoe shorter than a door?", "obj_a": "door", "obj_b": "shoe", "label": 1}
+{"text": "A human and a bottle.", "question": "Is a bottle shorter than a human?", "obj_a": "human", "obj_b": "bottle", "label": 1}
+{"text": "A horse and a bottle.", "question": "Is a bottle shorter than a horse?", "obj_a": "horse", "obj_b": "bottle", "label": 1}
+{"text": "A bookshelf and a bottle.", "question": "Is a bottle shorter than a bookshelf?", "obj_a": "bookshelf", "obj_b": "bottle", "label": 1}
+{"text": "A camel and a bottle.", "question": "Is a bottle shorter than a camel?", "obj_a": "camel", "obj_b": "bottle", "label": 1}
+{"text": "A door and a bottle.", "question": "Is a bottle shorter than a door?", "obj_a": "door", "obj_b": "bottle", "label": 1}
+{"text": "A human and a mobile phone.", "question": "Is a mobile phone shorter than a human?", "obj_a": "human", "obj_b": "mobile phone", "label": 1}
+{"text": "A horse and a mobile phone.", "question": "Is a mobile phone shorter than a horse?", "obj_a": "horse", "obj_b": "mobile phone", "label": 1}
+{"text": "A bookshelf and a mobile phone.", "question": "Is a mobile phone shorter than a bookshelf?", "obj_a": "bookshelf", "obj_b": "mobile phone", "label": 1}
+{"text": "A camel and a mobile phone.", "question": "Is a mobile phone shorter than a camel?", "obj_a": "camel", "obj_b": "mobile phone", "label": 1}
+{"text": "A door and a mobile phone.", "question": "Is a mobile phone shorter than a door?", "obj_a": "door", "obj_b": "mobile phone", "label": 1}
+{"text": "An apartment and a bird.", "question": "Is a bird shorter than an apartment?", "obj_a": "apartment", "obj_b": "bird", "label": 1}
+{"text": "A theatre and a bird.", "question": "Is a bird shorter than a theatre?", "obj_a": "theatre", "obj_b": "bird", "label": 1}
+{"text": "A giraffe and a bird.", "question": "Is a bird shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "bird", "label": 1}
+{"text": "A truck and a bird.", "question": "Is a bird shorter than a truck?", "obj_a": "truck", "obj_b": "bird", "label": 1}
+{"text": "A street lamp and a bird.", "question": "Is a bird shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "bird", "label": 1}
+{"text": "An apartment and a cup.", "question": "Is a cup shorter than an apartment?", "obj_a": "apartment", "obj_b": "cup", "label": 1}
+{"text": "A theatre and a cup.", "question": "Is a cup shorter than a theatre?", "obj_a": "theatre", "obj_b": "cup", "label": 1}
+{"text": "A giraffe and a cup.", "question": "Is a cup shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "cup", "label": 1}
+{"text": "A truck and a cup.", "question": "Is a cup shorter than a truck?", "obj_a": "truck", "obj_b": "cup", "label": 1}
+{"text": "A street lamp and a cup.", "question": "Is a cup shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "cup", "label": 1}
+{"text": "An apartment and a shoe.", "question": "Is a shoe shorter than an apartment?", "obj_a": "apartment", "obj_b": "shoe", "label": 1}
+{"text": "A theatre and a shoe.", "question": "Is a shoe shorter than a theatre?", "obj_a": "theatre", "obj_b": "shoe", "label": 1}
+{"text": "A giraffe and a shoe.", "question": "Is a shoe shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "shoe", "label": 1}
+{"text": "A truck and a shoe.", "question": "Is a shoe shorter than a truck?", "obj_a": "truck", "obj_b": "shoe", "label": 1}
+{"text": "A street lamp and a shoe.", "question": "Is a shoe shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "shoe", "label": 1}
+{"text": "An apartment and a bottle.", "question": "Is a bottle shorter than an apartment?", "obj_a": "apartment", "obj_b": "bottle", "label": 1}
+{"text": "A theatre and a bottle.", "question": "Is a bottle shorter than a theatre?", "obj_a": "theatre", "obj_b": "bottle", "label": 1}
+{"text": "A giraffe and a bottle.", "question": "Is a bottle shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "bottle", "label": 1}
+{"text": "A truck and a bottle.", "question": "Is a bottle shorter than a truck?", "obj_a": "truck", "obj_b": "bottle", "label": 1}
+{"text": "A street lamp and a bottle.", "question": "Is a bottle shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "bottle", "label": 1}
+{"text": "An apartment and a mobile phone.", "question": "Is a mobile phone shorter than an apartment?", "obj_a": "apartment", "obj_b": "mobile phone", "label": 1}
+{"text": "A theatre and a mobile phone.", "question": "Is a mobile phone shorter than a theatre?", "obj_a": "theatre", "obj_b": "mobile phone", "label": 1}
+{"text": "A giraffe and a mobile phone.", "question": "Is a mobile phone shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "mobile phone", "label": 1}
+{"text": "A truck and a mobile phone.", "question": "Is a mobile phone shorter than a truck?", "obj_a": "truck", "obj_b": "mobile phone", "label": 1}
+{"text": "A street lamp and a mobile phone.", "question": "Is a mobile phone shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "mobile phone", "label": 1}
+{"text": "A human and a table.", "question": "Is a table shorter than a human?", "obj_a": "human", "obj_b": "table", "label": 1}
+{"text": "A horse and a table.", "question": "Is a table shorter than a horse?", "obj_a": "horse", "obj_b": "table", "label": 1}
+{"text": "A bookshelf and a table.", "question": "Is a table shorter than a bookshelf?", "obj_a": "bookshelf", "obj_b": "table", "label": 1}
+{"text": "A camel and a table.", "question": "Is a table shorter than a camel?", "obj_a": "camel", "obj_b": "table", "label": 1}
+{"text": "A door and a table.", "question": "Is a table shorter than a door?", "obj_a": "door", "obj_b": "table", "label": 1}
+{"text": "A human and a chair.", "question": "Is a chair shorter than a human?", "obj_a": "human", "obj_b": "chair", "label": 1}
+{"text": "A horse and a chair.", "question": "Is a chair shorter than a horse?", "obj_a": "horse", "obj_b": "chair", "label": 1}
+{"text": "A bookshelf and a chair.", "question": "Is a chair shorter than a bookshelf?", "obj_a": "bookshelf", "obj_b": "chair", "label": 1}
+{"text": "A camel and a chair.", "question": "Is a chair shorter than a camel?", "obj_a": "camel", "obj_b": "chair", "label": 1}
+{"text": "A door and a chair.", "question": "Is a chair shorter than a door?", "obj_a": "door", "obj_b": "chair", "label": 1}
+{"text": "A human and a trash can.", "question": "Is a trash can shorter than a human?", "obj_a": "human", "obj_b": "trash can", "label": 1}
+{"text": "A horse and a trash can.", "question": "Is a trash can shorter than a horse?", "obj_a": "horse", "obj_b": "trash can", "label": 1}
+{"text": "A bookshelf and a trash can.", "question": "Is a trash can shorter than a bookshelf?", "obj_a": "bookshelf", "obj_b": "trash can", "label": 1}
+{"text": "A camel and a trash can.", "question": "Is a trash can shorter than a camel?", "obj_a": "camel", "obj_b": "trash can", "label": 1}
+{"text": "A door and a trash can.", "question": "Is a trash can shorter than a door?", "obj_a": "door", "obj_b": "trash can", "label": 1}
+{"text": "A human and a sofa.", "question": "Is a sofa shorter than a human?", "obj_a": "human", "obj_b": "sofa", "label": 1}
+{"text": "A horse and a sofa.", "question": "Is a sofa shorter than a horse?", "obj_a": "horse", "obj_b": "sofa", "label": 1}
+{"text": "A bookshelf and a sofa.", "question": "Is a sofa shorter than a bookshelf?", "obj_a": "bookshelf", "obj_b": "sofa", "label": 1}
+{"text": "A camel and a sofa.", "question": "Is a sofa shorter than a camel?", "obj_a": "camel", "obj_b": "sofa", "label": 1}
+{"text": "A door and a sofa.", "question": "Is a sofa shorter than a door?", "obj_a": "door", "obj_b": "sofa", "label": 1}
+{"text": "A human and a suitcase.", "question": "Is a suitcase shorter than a human?", "obj_a": "human", "obj_b": "suitcase", "label": 1}
+{"text": "A horse and a suitcase.", "question": "Is a suitcase shorter than a horse?", "obj_a": "horse", "obj_b": "suitcase", "label": 1}
+{"text": "A bookshelf and a suitcase.", "question": "Is a suitcase shorter than a bookshelf?", "obj_a": "bookshelf", "obj_b": "suitcase", "label": 1}
+{"text": "A camel and a suitcase.", "question": "Is a suitcase shorter than a camel?", "obj_a": "camel", "obj_b": "suitcase", "label": 1}
+{"text": "A door and a suitcase.", "question": "Is a suitcase shorter than a door?", "obj_a": "door", "obj_b": "suitcase", "label": 1}
+{"text": "An apartment and a table.", "question": "Is a table shorter than an apartment?", "obj_a": "apartment", "obj_b": "table", "label": 1}
+{"text": "A theatre and a table.", "question": "Is a table shorter than a theatre?", "obj_a": "theatre", "obj_b": "table", "label": 1}
+{"text": "A giraffe and a table.", "question": "Is a table shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "table", "label": 1}
+{"text": "A truck and a table.", "question": "Is a table shorter than a truck?", "obj_a": "truck", "obj_b": "table", "label": 1}
+{"text": "A street lamp and a table.", "question": "Is a table shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "table", "label": 1}
+{"text": "An apartment and a chair.", "question": "Is a chair shorter than an apartment?", "obj_a": "apartment", "obj_b": "chair", "label": 1}
+{"text": "A theatre and a chair.", "question": "Is a chair shorter than a theatre?", "obj_a": "theatre", "obj_b": "chair", "label": 1}
+{"text": "A giraffe and a chair.", "question": "Is a chair shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "chair", "label": 1}
+{"text": "A truck and a chair.", "question": "Is a chair shorter than a truck?", "obj_a": "truck", "obj_b": "chair", "label": 1}
+{"text": "A street lamp and a chair.", "question": "Is a chair shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "chair", "label": 1}
+{"text": "An apartment and a trash can.", "question": "Is a trash can shorter than an apartment?", "obj_a": "apartment", "obj_b": "trash can", "label": 1}
+{"text": "A theatre and a trash can.", "question": "Is a trash can shorter than a theatre?", "obj_a": "theatre", "obj_b": "trash can", "label": 1}
+{"text": "A giraffe and a trash can.", "question": "Is a trash can shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "trash can", "label": 1}
+{"text": "A truck and a trash can.", "question": "Is a trash can shorter than a truck?", "obj_a": "truck", "obj_b": "trash can", "label": 1}
+{"text": "A street lamp and a trash can.", "question": "Is a trash can shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "trash can", "label": 1}
+{"text": "An apartment and a sofa.", "question": "Is a sofa shorter than an apartment?", "obj_a": "apartment", "obj_b": "sofa", "label": 1}
+{"text": "A theatre and a sofa.", "question": "Is a sofa shorter than a theatre?", "obj_a": "theatre", "obj_b": "sofa", "label": 1}
+{"text": "A giraffe and a sofa.", "question": "Is a sofa shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "sofa", "label": 1}
+{"text": "A truck and a sofa.", "question": "Is a sofa shorter than a truck?", "obj_a": "truck", "obj_b": "sofa", "label": 1}
+{"text": "A street lamp and a sofa.", "question": "Is a sofa shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "sofa", "label": 1}
+{"text": "An apartment and a suitcase.", "question": "Is a suitcase shorter than an apartment?", "obj_a": "apartment", "obj_b": "suitcase", "label": 1}
+{"text": "A theatre and a suitcase.", "question": "Is a suitcase shorter than a theatre?", "obj_a": "theatre", "obj_b": "suitcase", "label": 1}
+{"text": "A giraffe and a suitcase.", "question": "Is a suitcase shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "suitcase", "label": 1}
+{"text": "A truck and a suitcase.", "question": "Is a suitcase shorter than a truck?", "obj_a": "truck", "obj_b": "suitcase", "label": 1}
+{"text": "A street lamp and a suitcase.", "question": "Is a suitcase shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "suitcase", "label": 1}
+{"text": "An apartment and a human.", "question": "Is a human shorter than an apartment?", "obj_a": "apartment", "obj_b": "human", "label": 1}
+{"text": "A theatre and a human.", "question": "Is a human shorter than a theatre?", "obj_a": "theatre", "obj_b": "human", "label": 1}
+{"text": "A giraffe and a human.", "question": "Is a human shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "human", "label": 1}
+{"text": "A truck and a human.", "question": "Is a human shorter than a truck?", "obj_a": "truck", "obj_b": "human", "label": 1}
+{"text": "A street lamp and a human.", "question": "Is a human shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "human", "label": 1}
+{"text": "An apartment and a horse.", "question": "Is a horse shorter than an apartment?", "obj_a": "apartment", "obj_b": "horse", "label": 1}
+{"text": "A theatre and a horse.", "question": "Is a horse shorter than a theatre?", "obj_a": "theatre", "obj_b": "horse", "label": 1}
+{"text": "A giraffe and a horse.", "question": "Is a horse shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "horse", "label": 1}
+{"text": "A truck and a horse.", "question": "Is a horse shorter than a truck?", "obj_a": "truck", "obj_b": "horse", "label": 1}
+{"text": "A street lamp and a horse.", "question": "Is a horse shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "horse", "label": 1}
+{"text": "An apartment and a bookshelf.", "question": "Is a bookshelf shorter than an apartment?", "obj_a": "apartment", "obj_b": "bookshelf", "label": 1}
+{"text": "A theatre and a bookshelf.", "question": "Is a bookshelf shorter than a theatre?", "obj_a": "theatre", "obj_b": "bookshelf", "label": 1}
+{"text": "A giraffe and a bookshelf.", "question": "Is a bookshelf shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "bookshelf", "label": 1}
+{"text": "A truck and a bookshelf.", "question": "Is a bookshelf shorter than a truck?", "obj_a": "truck", "obj_b": "bookshelf", "label": 1}
+{"text": "A street lamp and a bookshelf.", "question": "Is a bookshelf shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "bookshelf", "label": 1}
+{"text": "An apartment and a camel.", "question": "Is a camel shorter than an apartment?", "obj_a": "apartment", "obj_b": "camel", "label": 1}
+{"text": "A theatre and a camel.", "question": "Is a camel shorter than a theatre?", "obj_a": "theatre", "obj_b": "camel", "label": 1}
+{"text": "A giraffe and a camel.", "question": "Is a camel shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "camel", "label": 1}
+{"text": "A truck and a camel.", "question": "Is a camel shorter than a truck?", "obj_a": "truck", "obj_b": "camel", "label": 1}
+{"text": "A street lamp and a camel.", "question": "Is a camel shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "camel", "label": 1}
+{"text": "An apartment and a door.", "question": "Is a door shorter than an apartment?", "obj_a": "apartment", "obj_b": "door", "label": 1}
+{"text": "A theatre and a door.", "question": "Is a door shorter than a theatre?", "obj_a": "theatre", "obj_b": "door", "label": 1}
+{"text": "A giraffe and a door.", "question": "Is a door shorter than a giraffe?", "obj_a": "giraffe", "obj_b": "door", "label": 1}
+{"text": "A truck and a door.", "question": "Is a door shorter than a truck?", "obj_a": "truck", "obj_b": "door", "label": 1}
+{"text": "A street lamp and a door.", "question": "Is a door shorter than a street lamp?", "obj_a": "street lamp", "obj_b": "door", "label": 1}

@@ -1,0 +1,224 @@
+{"text": "A man drives the car. ", "label": 0, "obj_a": "man", "obj_b": "car"}
+{"text": "A man is driving the car. ", "label": 0, "obj_a": "man", "obj_b": "car"}
+{"text": "A woman drives the car. ", "label": 0, "obj_a": "woman", "obj_b": "car"}
+{"text": "A woman is driving the car. ", "label": 0, "obj_a": "woman", "obj_b": "car"}
+{"text": "A boy drives the car. ", "label": 0, "obj_a": "boy", "obj_b": "car"}
+{"text": "A boy is driving the car. ", "label": 0, "obj_a": "boy", "obj_b": "car"}
+{"text": "A girl drives the car. ", "label": 0, "obj_a": "girl", "obj_b": "car"}
+{"text": "A girl is driving the car. ", "label": 0, "obj_a": "girl", "obj_b": "car"}
+{"text": "A man washes the car. ", "label": 3, "obj_a": "man", "obj_b": "car"}
+{"text": "A man is washing the car. ", "label": 3, "obj_a": "man", "obj_b": "car"}
+{"text": "A woman washes the car. ", "label": 3, "obj_a": "woman", "obj_b": "car"}
+{"text": "A woman is washing the car. ", "label": 3, "obj_a": "woman", "obj_b": "car"}
+{"text": "A boy washes the car. ", "label": 3, "obj_a": "boy", "obj_b": "car"}
+{"text": "A boy is washing the car. ", "label": 3, "obj_a": "boy", "obj_b": "car"}
+{"text": "A girl washes the car. ", "label": 3, "obj_a": "girl", "obj_b": "car"}
+{"text": "A girl is washing the car. ", "label": 3, "obj_a": "girl", "obj_b": "car"}
+{"text": "A man drives the lorry. ", "label": 0, "obj_a": "man", "obj_b": "lorry"}
+{"text": "A man is driving the lorry. ", "label": 0, "obj_a": "man", "obj_b": "lorry"}
+{"text": "A woman drives the lorry. ", "label": 0, "obj_a": "woman", "obj_b": "lorry"}
+{"text": "A woman is driving the lorry. ", "label": 0, "obj_a": "woman", "obj_b": "lorry"}
+{"text": "A boy drives the lorry. ", "label": 0, "obj_a": "boy", "obj_b": "lorry"}
+{"text": "A boy is driving the lorry. ", "label": 0, "obj_a": "boy", "obj_b": "lorry"}
+{"text": "A girl drives the lorry. ", "label": 0, "obj_a": "girl", "obj_b": "lorry"}
+{"text": "A girl is driving the lorry. ", "label": 0, "obj_a": "girl", "obj_b": "lorry"}
+{"text": "A man washes the lorry. ", "label": 3, "obj_a": "man", "obj_b": "lorry"}
+{"text": "A man is washing the lorry. ", "label": 3, "obj_a": "man", "obj_b": "lorry"}
+{"text": "A woman washes the lorry. ", "label": 3, "obj_a": "woman", "obj_b": "lorry"}
+{"text": "A woman is washing the lorry. ", "label": 3, "obj_a": "woman", "obj_b": "lorry"}
+{"text": "A boy washes the lorry. ", "label": 3, "obj_a": "boy", "obj_b": "lorry"}
+{"text": "A boy is washing the lorry. ", "label": 3, "obj_a": "boy", "obj_b": "lorry"}
+{"text": "A girl washes the lorry. ", "label": 3, "obj_a": "girl", "obj_b": "lorry"}
+{"text": "A girl is washing the lorry. ", "label": 3, "obj_a": "girl", "obj_b": "lorry"}
+{"text": "A man rides the bicycle. ", "label": 1, "obj_a": "man", "obj_b": "bicycle"}
+{"text": "A man is riding the bicycle. ", "label": 1, "obj_a": "man", "obj_b": "bicycle"}
+{"text": "A woman rides the bicycle. ", "label": 1, "obj_a": "woman", "obj_b": "bicycle"}
+{"text": "A woman is riding the bicycle. ", "label": 1, "obj_a": "woman", "obj_b": "bicycle"}
+{"text": "A boy rides the bicycle. ", "label": 1, "obj_a": "boy", "obj_b": "bicycle"}
+{"text": "A boy is riding the bicycle. ", "label": 1, "obj_a": "boy", "obj_b": "bicycle"}
+{"text": "A girl rides the bicycle. ", "label": 1, "obj_a": "girl", "obj_b": "bicycle"}
+{"text": "A girl is riding the bicycle. ", "label": 1, "obj_a": "girl", "obj_b": "bicycle"}
+{"text": "A man repairs the bicycle. ", "label": 3, "obj_a": "man", "obj_b": "bicycle"}
+{"text": "A man is repairing the bicycle. ", "label": 3, "obj_a": "man", "obj_b": "bicycle"}
+{"text": "A woman repairs the bicycle. ", "label": 3, "obj_a": "woman", "obj_b": "bicycle"}
+{"text": "A woman is repairing the bicycle. ", "label": 3, "obj_a": "woman", "obj_b": "bicycle"}
+{"text": "A boy repairs the bicycle. ", "label": 3, "obj_a": "boy", "obj_b": "bicycle"}
+{"text": "A boy is repairing the bicycle. ", "label": 3, "obj_a": "boy", "obj_b": "bicycle"}
+{"text": "A girl repairs the bicycle. ", "label": 3, "obj_a": "girl", "obj_b": "bicycle"}
+{"text": "A girl is repairing the bicycle. ", "label": 3, "obj_a": "girl", "obj_b": "bicycle"}
+{"text": "A man rides the horse. ", "label": 1, "obj_a": "man", "obj_b": "horse"}
+{"text": "A man is riding the horse. ", "label": 1, "obj_a": "man", "obj_b": "horse"}
+{"text": "A woman rides the horse. ", "label": 1, "obj_a": "woman", "obj_b": "horse"}
+{"text": "A woman is riding the horse. ", "label": 1, "obj_a": "woman", "obj_b": "horse"}
+{"text": "A boy rides the horse. ", "label": 1, "obj_a": "boy", "obj_b": "horse"}
+{"text": "A boy is riding the horse. ", "label": 1, "obj_a": "boy", "obj_b": "horse"}
+{"text": "A girl rides the horse. ", "label": 1, "obj_a": "girl", "obj_b": "horse"}
+{"text": "A girl is riding the horse. ", "label": 1, "obj_a": "girl", "obj_b": "horse"}
+{"text": "A man feeds the horse. ", "label": 3, "obj_a": "man", "obj_b": "horse"}
+{"text": "A man is feeding the horse. ", "label": 3, "obj_a": "man", "obj_b": "horse"}
+{"text": "A woman feeds the horse. ", "label": 3, "obj_a": "woman", "obj_b": "horse"}
+{"text": "A woman is feeding the horse. ", "label": 3, "obj_a": "woman", "obj_b": "horse"}
+{"text": "A boy feeds the horse. ", "label": 3, "obj_a": "boy", "obj_b": "horse"}
+{"text": "A boy is feeding the horse. ", "label": 3, "obj_a": "boy", "obj_b": "horse"}
+{"text": "A girl feeds the horse. ", "label": 3, "obj_a": "girl", "obj_b": "horse"}
+{"text": "A girl is feeding the horse. ", "label": 3, "obj_a": "girl", "obj_b": "horse"}
+{"text": "A man cooks the rice. ", "label": 3, "obj_a": "man", "obj_b": "rice"}
+{"text": "A man is cooking the rice. ", "label": 3, "obj_a": "man", "obj_b": "rice"}
+{"text": "A woman cooks the rice. ", "label": 3, "obj_a": "woman", "obj_b": "rice"}
+{"text": "A woman is cooking the rice. ", "label": 3, "obj_a": "woman", "obj_b": "rice"}
+{"text": "A boy cooks the rice. ", "label": 3, "obj_a": "boy", "obj_b": "rice"}
+{"text": "A boy is cooking the rice. ", "label": 3, "obj_a": "boy", "obj_b": "rice"}
+{"text": "A girl cooks the rice. ", "label": 3, "obj_a": "girl", "obj_b": "rice"}
+{"text": "A girl is cooking the rice. ", "label": 3, "obj_a": "girl", "obj_b": "rice"}
+{"text": "A man tramples the rice. ", "label": 1, "obj_a": "man", "obj_b": "rice"}
+{"text": "A man is trampling the rice. ", "label": 1, "obj_a": "man", "obj_b": "rice"}
+{"text": "A woman tramples the rice. ", "label": 1, "obj_a": "woman", "obj_b": "rice"}
+{"text": "A woman is trampling the rice. ", "label": 1, "obj_a": "woman", "obj_b": "rice"}
+{"text": "A boy tramples the rice. ", "label": 1, "obj_a": "boy", "obj_b": "rice"}
+{"text": "A boy is trampling the rice. ", "label": 1, "obj_a": "boy", "obj_b": "rice"}
+{"text": "A girl tramples the rice. ", "label": 1, "obj_a": "girl", "obj_b": "rice"}
+{"text": "A girl is trampling the rice. ", "label": 1, "obj_a": "girl", "obj_b": "rice"}
+{"text": "A man plants the tree. ", "label": 3, "obj_a": "man", "obj_b": "tree"}
+{"text": "A man is planting the tree. ", "label": 3, "obj_a": "man", "obj_b": "tree"}
+{"text": "A woman plants the tree. ", "label": 3, "obj_a": "woman", "obj_b": "tree"}
+{"text": "A woman is planting the tree. ", "label": 3, "obj_a": "woman", "obj_b": "tree"}
+{"text": "A boy plants the tree. ", "label": 3, "obj_a": "boy", "obj_b": "tree"}
+{"text": "A boy is planting the tree. ", "label": 3, "obj_a": "boy", "obj_b": "tree"}
+{"text": "A girl plants the tree. ", "label": 3, "obj_a": "girl", "obj_b": "tree"}
+{"text": "A girl is planting the tree. ", "label": 3, "obj_a": "girl", "obj_b": "tree"}
+{"text": "A man climbs the tree. ", "label": 1, "obj_a": "man", "obj_b": "tree"}
+{"text": "A man is climbing the tree. ", "label": 1, "obj_a": "man", "obj_b": "tree"}
+{"text": "A woman climbs the tree. ", "label": 1, "obj_a": "woman", "obj_b": "tree"}
+{"text": "A woman is climbing the tree. ", "label": 1, "obj_a": "woman", "obj_b": "tree"}
+{"text": "A boy climbs the tree. ", "label": 1, "obj_a": "boy", "obj_b": "tree"}
+{"text": "A boy is climbing the tree. ", "label": 1, "obj_a": "boy", "obj_b": "tree"}
+{"text": "A girl climbs the tree. ", "label": 1, "obj_a": "girl", "obj_b": "tree"}
+{"text": "A girl is climbing the tree. ", "label": 1, "obj_a": "girl", "obj_b": "tree"}
+{"text": "A man plants the pine tree. ", "label": 3, "obj_a": "man", "obj_b": "pine tree"}
+{"text": "A man is planting the pine tree. ", "label": 3, "obj_a": "man", "obj_b": "pine tree"}
+{"text": "A woman plants the pine tree. ", "label": 3, "obj_a": "woman", "obj_b": "pine tree"}
+{"text": "A woman is planting the pine tree. ", "label": 3, "obj_a": "woman", "obj_b": "pine tree"}
+{"text": "A boy plants the pine tree. ", "label": 3, "obj_a": "boy", "obj_b": "pine tree"}
+{"text": "A boy is planting the pine tree. ", "label": 3, "obj_a": "boy", "obj_b": "pine tree"}
+{"text": "A girl plants the pine tree. ", "label": 3, "obj_a": "girl", "obj_b": "pine tree"}
+{"text": "A girl is planting the pine tree. ", "label": 3, "obj_a": "girl", "obj_b": "pine tree"}
+{"text": "A man climbs the pine tree. ", "label": 1, "obj_a": "man", "obj_b": "pine tree"}
+{"text": "A man is climbing the pine tree. ", "label": 1, "obj_a": "man", "obj_b": "pine tree"}
+{"text": "A woman climbs the pine tree. ", "label": 1, "obj_a": "woman", "obj_b": "pine tree"}
+{"text": "A woman is climbing the pine tree. ", "label": 1, "obj_a": "woman", "obj_b": "pine tree"}
+{"text": "A boy climbs the pine tree. ", "label": 1, "obj_a": "boy", "obj_b": "pine tree"}
+{"text": "A boy is climbing the pine tree. ", "label": 1, "obj_a": "boy", "obj_b": "pine tree"}
+{"text": "A girl climbs the pine tree. ", "label": 1, "obj_a": "girl", "obj_b": "pine tree"}
+{"text": "A girl is climbing the pine tree. ", "label": 1, "obj_a": "girl", "obj_b": "pine tree"}
+{"text": "A man kicks the ball. ", "label": 3, "obj_a": "man", "obj_b": "ball"}
+{"text": "A man is kicking the ball. ", "label": 3, "obj_a": "man", "obj_b": "ball"}
+{"text": "A woman kicks the ball. ", "label": 3, "obj_a": "woman", "obj_b": "ball"}
+{"text": "A woman is kicking the ball. ", "label": 3, "obj_a": "woman", "obj_b": "ball"}
+{"text": "A boy kicks the ball. ", "label": 3, "obj_a": "boy", "obj_b": "ball"}
+{"text": "A boy is kicking the ball. ", "label": 3, "obj_a": "boy", "obj_b": "ball"}
+{"text": "A girl kicks the ball. ", "label": 3, "obj_a": "girl", "obj_b": "ball"}
+{"text": "A girl is kicking the ball. ", "label": 3, "obj_a": "girl", "obj_b": "ball"}
+{"text": "A man heads the ball. ", "label": 2, "obj_a": "man", "obj_b": "ball"}
+{"text": "A man is heading the ball. ", "label": 2, "obj_a": "man", "obj_b": "ball"}
+{"text": "A woman heads the ball. ", "label": 2, "obj_a": "woman", "obj_b": "ball"}
+{"text": "A woman is heading the ball. ", "label": 2, "obj_a": "woman", "obj_b": "ball"}
+{"text": "A boy heads the ball. ", "label": 2, "obj_a": "boy", "obj_b": "ball"}
+{"text": "A boy is heading the ball. ", "label": 2, "obj_a": "boy", "obj_b": "ball"}
+{"text": "A girl heads the ball. ", "label": 2, "obj_a": "girl", "obj_b": "ball"}
+{"text": "A girl is heading the ball. ", "label": 2, "obj_a": "girl", "obj_b": "ball"}
+{"text": "A man kicks the soccer ball. ", "label": 3, "obj_a": "man", "obj_b": "soccer ball"}
+{"text": "A man is kicking the soccer ball. ", "label": 3, "obj_a": "man", "obj_b": "soccer ball"}
+{"text": "A woman kicks the soccer ball. ", "label": 3, "obj_a": "woman", "obj_b": "soccer ball"}
+{"text": "A woman is kicking the soccer ball. ", "label": 3, "obj_a": "woman", "obj_b": "soccer ball"}
+{"text": "A boy kicks the soccer ball. ", "label": 3, "obj_a": "boy", "obj_b": "soccer ball"}
+{"text": "A boy is kicking the soccer ball. ", "label": 3, "obj_a": "boy", "obj_b": "soccer ball"}
+{"text": "A girl kicks the soccer ball. ", "label": 3, "obj_a": "girl", "obj_b": "soccer ball"}
+{"text": "A girl is kicking the soccer ball. ", "label": 3, "obj_a": "girl", "obj_b": "soccer ball"}
+{"text": "A man heads the soccer ball. ", "label": 2, "obj_a": "man", "obj_b": "soccer ball"}
+{"text": "A man is heading the soccer ball. ", "label": 2, "obj_a": "man", "obj_b": "soccer ball"}
+{"text": "A woman heads the soccer ball. ", "label": 2, "obj_a": "woman", "obj_b": "soccer ball"}
+{"text": "A woman is heading the soccer ball. ", "label": 2, "obj_a": "woman", "obj_b": "soccer ball"}
+{"text": "A boy heads the soccer ball. ", "label": 2, "obj_a": "boy", "obj_b": "soccer ball"}
+{"text": "A boy is heading the soccer ball. ", "label": 2, "obj_a": "boy", "obj_b": "soccer ball"}
+{"text": "A girl heads the soccer ball. ", "label": 2, "obj_a": "girl", "obj_b": "soccer ball"}
+{"text": "A girl is heading the soccer ball. ", "label": 2, "obj_a": "girl", "obj_b": "soccer ball"}
+{"text": "A man watches the firework. ", "label": 2, "obj_a": "man", "obj_b": "firework"}
+{"text": "A man is watching the firework. ", "label": 2, "obj_a": "man", "obj_b": "firework"}
+{"text": "A woman watches the firework. ", "label": 2, "obj_a": "woman", "obj_b": "firework"}
+{"text": "A woman is watching the firework. ", "label": 2, "obj_a": "woman", "obj_b": "firework"}
+{"text": "A boy watches the firework. ", "label": 2, "obj_a": "boy", "obj_b": "firework"}
+{"text": "A boy is watching the firework. ", "label": 2, "obj_a": "boy", "obj_b": "firework"}
+{"text": "A girl watches the firework. ", "label": 2, "obj_a": "girl", "obj_b": "firework"}
+{"text": "A girl is watching the firework. ", "label": 2, "obj_a": "girl", "obj_b": "firework"}
+{"text": "A man lights the firework. ", "label": 3, "obj_a": "man", "obj_b": "firework"}
+{"text": "A man is lighting the firework. ", "label": 3, "obj_a": "man", "obj_b": "firework"}
+{"text": "A woman lights the firework. ", "label": 3, "obj_a": "woman", "obj_b": "firework"}
+{"text": "A woman is lighting the firework. ", "label": 3, "obj_a": "woman", "obj_b": "firework"}
+{"text": "A boy lights the firework. ", "label": 3, "obj_a": "boy", "obj_b": "firework"}
+{"text": "A boy is lighting the firework. ", "label": 3, "obj_a": "boy", "obj_b": "firework"}
+{"text": "A girl lights the firework. ", "label": 3, "obj_a": "girl", "obj_b": "firework"}
+{"text": "A girl is lighting the firework. ", "label": 3, "obj_a": "girl", "obj_b": "firework"}
+{"text": "A man watches the firecracker. ", "label": 2, "obj_a": "man", "obj_b": "firecracker"}
+{"text": "A man is watching the firecracker. ", "label": 2, "obj_a": "man", "obj_b": "firecracker"}
+{"text": "A woman watches the firecracker. ", "label": 2, "obj_a": "woman", "obj_b": "firecracker"}
+{"text": "A woman is watching the firecracker. ", "label": 2, "obj_a": "woman", "obj_b": "firecracker"}
+{"text": "A boy watches the firecracker. ", "label": 2, "obj_a": "boy", "obj_b": "firecracker"}
+{"text": "A boy is watching the firecracker. ", "label": 2, "obj_a": "boy", "obj_b": "firecracker"}
+{"text": "A girl watches the firecracker. ", "label": 2, "obj_a": "girl", "obj_b": "firecracker"}
+{"text": "A girl is watching the firecracker. ", "label": 2, "obj_a": "girl", "obj_b": "firecracker"}
+{"text": "A man lights the firecracker. ", "label": 3, "obj_a": "man", "obj_b": "firecracker"}
+{"text": "A man is lighting the firecracker. ", "label": 3, "obj_a": "man", "obj_b": "firecracker"}
+{"text": "A woman lights the firecracker. ", "label": 3, "obj_a": "woman", "obj_b": "firecracker"}
+{"text": "A woman is lighting the firecracker. ", "label": 3, "obj_a": "woman", "obj_b": "firecracker"}
+{"text": "A boy lights the firecracker. ", "label": 3, "obj_a": "boy", "obj_b": "firecracker"}
+{"text": "A boy is lighting the firecracker. ", "label": 3, "obj_a": "boy", "obj_b": "firecracker"}
+{"text": "A girl lights the firecracker. ", "label": 3, "obj_a": "girl", "obj_b": "firecracker"}
+{"text": "A girl is lighting the firecracker. ", "label": 3, "obj_a": "girl", "obj_b": "firecracker"}
+{"text": "A man tramples the flower. ", "label": 1, "obj_a": "man", "obj_b": "flower"}
+{"text": "A man is trampling the flower. ", "label": 1, "obj_a": "man", "obj_b": "flower"}
+{"text": "A woman tramples the flower. ", "label": 1, "obj_a": "woman", "obj_b": "flower"}
+{"text": "A woman is trampling the flower. ", "label": 1, "obj_a": "woman", "obj_b": "flower"}
+{"text": "A boy tramples the flower. ", "label": 1, "obj_a": "boy", "obj_b": "flower"}
+{"text": "A boy is trampling the flower. ", "label": 1, "obj_a": "boy", "obj_b": "flower"}
+{"text": "A girl tramples the flower. ", "label": 1, "obj_a": "girl", "obj_b": "flower"}
+{"text": "A girl is trampling the flower. ", "label": 1, "obj_a": "girl", "obj_b": "flower"}
+{"text": "A man waters the flower. ", "label": 3, "obj_a": "man", "obj_b": "flower"}
+{"text": "A man is watering the flower. ", "label": 3, "obj_a": "man", "obj_b": "flower"}
+{"text": "A woman waters the flower. ", "label": 3, "obj_a": "woman", "obj_b": "flower"}
+{"text": "A woman is watering the flower. ", "label": 3, "obj_a": "woman", "obj_b": "flower"}
+{"text": "A boy waters the flower. ", "label": 3, "obj_a": "boy", "obj_b": "flower"}
+{"text": "A boy is watering the flower. ", "label": 3, "obj_a": "boy", "obj_b": "flower"}
+{"text": "A girl waters the flower. ", "label": 3, "obj_a": "girl", "obj_b": "flower"}
+{"text": "A girl is watering the flower. ", "label": 3, "obj_a": "girl", "obj_b": "flower"}
+{"text": "A man tramples the shrub. ", "label": 1, "obj_a": "man", "obj_b": "shrub"}
+{"text": "A man is trampling the shrub. ", "label": 1, "obj_a": "man", "obj_b": "shrub"}
+{"text": "A woman tramples the shrub. ", "label": 1, "obj_a": "woman", "obj_b": "shrub"}
+{"text": "A woman is trampling the shrub. ", "label": 1, "obj_a": "woman", "obj_b": "shrub"}
+{"text": "A boy tramples the shrub. ", "label": 1, "obj_a": "boy", "obj_b": "shrub"}
+{"text": "A boy is trampling the shrub. ", "label": 1, "obj_a": "boy", "obj_b": "shrub"}
+{"text": "A girl tramples the shrub. ", "label": 1, "obj_a": "girl", "obj_b": "shrub"}
+{"text": "A girl is trampling the shrub. ", "label": 1, "obj_a": "girl", "obj_b": "shrub"}
+{"text": "A man waters the shrub. ", "label": 3, "obj_a": "man", "obj_b": "shrub"}
+{"text": "A man is watering the shrub. ", "label": 3, "obj_a": "man", "obj_b": "shrub"}
+{"text": "A woman waters the shrub. ", "label": 3, "obj_a": "woman", "obj_b": "shrub"}
+{"text": "A woman is watering the shrub. ", "label": 3, "obj_a": "woman", "obj_b": "shrub"}
+{"text": "A boy waters the shrub. ", "label": 3, "obj_a": "boy", "obj_b": "shrub"}
+{"text": "A boy is watering the shrub. ", "label": 3, "obj_a": "boy", "obj_b": "shrub"}
+{"text": "A girl waters the shrub. ", "label": 3, "obj_a": "girl", "obj_b": "shrub"}
+{"text": "A girl is watering the shrub. ", "label": 3, "obj_a": "girl", "obj_b": "shrub"}
+{"text": "A man climbs the ladder. ", "label": 1, "obj_a": "man", "obj_b": "ladder"}
+{"text": "A man is climbing the ladder. ", "label": 1, "obj_a": "man", "obj_b": "ladder"}
+{"text": "A woman climbs the ladder. ", "label": 1, "obj_a": "woman", "obj_b": "ladder"}
+{"text": "A woman is climbing the ladder. ", "label": 1, "obj_a": "woman", "obj_b": "ladder"}
+{"text": "A boy climbs the ladder. ", "label": 1, "obj_a": "boy", "obj_b": "ladder"}
+{"text": "A boy is climbing the ladder. ", "label": 1, "obj_a": "boy", "obj_b": "ladder"}
+{"text": "A girl climbs the ladder. ", "label": 1, "obj_a": "girl", "obj_b": "ladder"}
+{"text": "A girl is climbing the ladder. ", "label": 1, "obj_a": "girl", "obj_b": "ladder"}
+{"text": "A man holds the ladder. ", "label": 3, "obj_a": "man", "obj_b": "ladder"}
+{"text": "A man is holding the ladder. ", "label": 3, "obj_a": "man", "obj_b": "ladder"}
+{"text": "A woman holds the ladder. ", "label": 3, "obj_a": "woman", "obj_b": "ladder"}
+{"text": "A woman is holding the ladder. ", "label": 3, "obj_a": "woman", "obj_b": "ladder"}
+{"text": "A boy holds the ladder. ", "label": 3, "obj_a": "boy", "obj_b": "ladder"}
+{"text": "A boy is holding the ladder. ", "label": 3, "obj_a": "boy", "obj_b": "ladder"}
+{"text": "A girl holds the ladder. ", "label": 3, "obj_a": "girl", "obj_b": "ladder"}
+{"text": "A girl is holding the ladder. ", "label": 3, "obj_a": "girl", "obj_b": "ladder"}

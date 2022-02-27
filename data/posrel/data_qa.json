@@ -1,0 +1,448 @@
+{"question": "A man drives the car. Is the man inside the car?", "label": 1}
+{"question": "A man drives the car. Is the man beside the car?", "label": 0}
+{"question": "A man is driving the car. Is the man inside the car?", "label": 1}
+{"question": "A man is driving the car. Is the man beside the car?", "label": 0}
+{"question": "A woman drives the car. Is the woman inside the car?", "label": 1}
+{"question": "A woman drives the car. Is the woman beside the car?", "label": 0}
+{"question": "A woman is driving the car. Is the woman inside the car?", "label": 1}
+{"question": "A woman is driving the car. Is the woman beside the car?", "label": 0}
+{"question": "A boy drives the car. Is the boy inside the car?", "label": 1}
+{"question": "A boy drives the car. Is the boy beside the car?", "label": 0}
+{"question": "A boy is driving the car. Is the boy inside the car?", "label": 1}
+{"question": "A boy is driving the car. Is the boy beside the car?", "label": 0}
+{"question": "A girl drives the car. Is the girl inside the car?", "label": 1}
+{"question": "A girl drives the car. Is the girl beside the car?", "label": 0}
+{"question": "A girl is driving the car. Is the girl inside the car?", "label": 1}
+{"question": "A girl is driving the car. Is the girl beside the car?", "label": 0}
+{"question": "A man washes the car. Is the man beside the car?", "label": 1}
+{"question": "A man washes the car. Is the man inside the car?", "label": 0}
+{"question": "A man is washing the car. Is the man beside the car?", "label": 1}
+{"question": "A man is washing the car. Is the man inside the car?", "label": 0}
+{"question": "A woman washes the car. Is the woman beside the car?", "label": 1}
+{"question": "A woman washes the car. Is the woman inside the car?", "label": 0}
+{"question": "A woman is washing the car. Is the woman beside the car?", "label": 1}
+{"question": "A woman is washing the car. Is the woman inside the car?", "label": 0}
+{"question": "A boy washes the car. Is the boy beside the car?", "label": 1}
+{"question": "A boy washes the car. Is the boy inside the car?", "label": 0}
+{"question": "A boy is washing the car. Is the boy beside the car?", "label": 1}
+{"question": "A boy is washing the car. Is the boy inside the car?", "label": 0}
+{"question": "A girl washes the car. Is the girl beside the car?", "label": 1}
+{"question": "A girl washes the car. Is the girl inside the car?", "label": 0}
+{"question": "A girl is washing the car. Is the girl beside the car?", "label": 1}
+{"question": "A girl is washing the car. Is the girl inside the car?", "label": 0}
+{"question": "A man drives the lorry. Is the man inside the lorry?", "label": 1}
+{"question": "A man drives the lorry. Is the man beside the lorry?", "label": 0}
+{"question": "A man is driving the lorry. Is the man inside the lorry?", "label": 1}
+{"question": "A man is driving the lorry. Is the man beside the lorry?", "label": 0}
+{"question": "A woman drives the lorry. Is the woman inside the lorry?", "label": 1}
+{"question": "A woman drives the lorry. Is the woman beside the lorry?", "label": 0}
+{"question": "A woman is driving the lorry. Is the woman inside the lorry?", "label": 1}
+{"question": "A woman is driving the lorry. Is the woman beside the lorry?", "label": 0}
+{"question": "A boy drives the lorry. Is the boy inside the lorry?", "label": 1}
+{"question": "A boy drives the lorry. Is the boy beside the lorry?", "label": 0}
+{"question": "A boy is driving the lorry. Is the boy inside the lorry?", "label": 1}
+{"question": "A boy is driving the lorry. Is the boy beside the lorry?", "label": 0}
+{"question": "A girl drives the lorry. Is the girl inside the lorry?", "label": 1}
+{"question": "A girl drives the lorry. Is the girl beside the lorry?", "label": 0}
+{"question": "A girl is driving the lorry. Is the girl inside the lorry?", "label": 1}
+{"question": "A girl is driving the lorry. Is the girl beside the lorry?", "label": 0}
+{"question": "A man washes the lorry. Is the man beside the lorry?", "label": 1}
+{"question": "A man washes the lorry. Is the man inside the lorry?", "label": 0}
+{"question": "A man is washing the lorry. Is the man beside the lorry?", "label": 1}
+{"question": "A man is washing the lorry. Is the man inside the lorry?", "label": 0}
+{"question": "A woman washes the lorry. Is the woman beside the lorry?", "label": 1}
+{"question": "A woman washes the lorry. Is the woman inside the lorry?", "label": 0}
+{"question": "A woman is washing the lorry. Is the woman beside the lorry?", "label": 1}
+{"question": "A woman is washing the lorry. Is the woman inside the lorry?", "label": 0}
+{"question": "A boy washes the lorry. Is the boy beside the lorry?", "label": 1}
+{"question": "A boy washes the lorry. Is the boy inside the lorry?", "label": 0}
+{"question": "A boy is washing the lorry. Is the boy beside the lorry?", "label": 1}
+{"question": "A boy is washing the lorry. Is the boy inside the lorry?", "label": 0}
+{"question": "A girl washes the lorry. Is the girl beside the lorry?", "label": 1}
+{"question": "A girl washes the lorry. Is the girl inside the lorry?", "label": 0}
+{"question": "A girl is washing the lorry. Is the girl beside the lorry?", "label": 1}
+{"question": "A girl is washing the lorry. Is the girl inside the lorry?", "label": 0}
+{"question": "A man rides the bicycle. Is the man on the bicycle?", "label": 1}
+{"question": "A man rides the bicycle. Is the man beside the bicycle?", "label": 0}
+{"question": "A man is riding the bicycle. Is the man on the bicycle?", "label": 1}
+{"question": "A man is riding the bicycle. Is the man beside the bicycle?", "label": 0}
+{"question": "A woman rides the bicycle. Is the woman on the bicycle?", "label": 1}
+{"question": "A woman rides the bicycle. Is the woman beside the bicycle?", "label": 0}
+{"question": "A woman is riding the bicycle. Is the woman on the bicycle?", "label": 1}
+{"question": "A woman is riding the bicycle. Is the woman beside the bicycle?", "label": 0}
+{"question": "A boy rides the bicycle. Is the boy on the bicycle?", "label": 1}
+{"question": "A boy rides the bicycle. Is the boy beside the bicycle?", "label": 0}
+{"question": "A boy is riding the bicycle. Is the boy on the bicycle?", "label": 1}
+{"question": "A boy is riding the bicycle. Is the boy beside the bicycle?", "label": 0}
+{"question": "A girl rides the bicycle. Is the girl on the bicycle?", "label": 1}
+{"question": "A girl rides the bicycle. Is the girl beside the bicycle?", "label": 0}
+{"question": "A girl is riding the bicycle. Is the girl on the bicycle?", "label": 1}
+{"question": "A girl is riding the bicycle. Is the girl beside the bicycle?", "label": 0}
+{"question": "A man repairs the bicycle. Is the man beside the bicycle?", "label": 1}
+{"question": "A man repairs the bicycle. Is the man on the bicycle?", "label": 0}
+{"question": "A man is repairing the bicycle. Is the man beside the bicycle?", "label": 1}
+{"question": "A man is repairing the bicycle. Is the man on the bicycle?", "label": 0}
+{"question": "A woman repairs the bicycle. Is the woman beside the bicycle?", "label": 1}
+{"question": "A woman repairs the bicycle. Is the woman on the bicycle?", "label": 0}
+{"question": "A woman is repairing the bicycle. Is the woman beside the bicycle?", "label": 1}
+{"question": "A woman is repairing the bicycle. Is the woman on the bicycle?", "label": 0}
+{"question": "A boy repairs the bicycle. Is the boy beside the bicycle?", "label": 1}
+{"question": "A boy repairs the bicycle. Is the boy on the bicycle?", "label": 0}
+{"question": "A boy is repairing the bicycle. Is the boy beside the bicycle?", "label": 1}
+{"question": "A boy is repairing the bicycle. Is the boy on the bicycle?", "label": 0}
+{"question": "A girl repairs the bicycle. Is the girl beside the bicycle?", "label": 1}
+{"question": "A girl repairs the bicycle. Is the girl on the bicycle?", "label": 0}
+{"question": "A girl is repairing the bicycle. Is the girl beside the bicycle?", "label": 1}
+{"question": "A girl is repairing the bicycle. Is the girl on the bicycle?", "label": 0}
+{"question": "A man rides the horse. Is the man on the horse?", "label": 1}
+{"question": "A man rides the horse. Is the man beside the horse?", "label": 0}
+{"question": "A man is riding the horse. Is the man on the horse?", "label": 1}
+{"question": "A man is riding the horse. Is the man beside the horse?", "label": 0}
+{"question": "A woman rides the horse. Is the woman on the horse?", "label": 1}
+{"question": "A woman rides the horse. Is the woman beside the horse?", "label": 0}
+{"question": "A woman is riding the horse. Is the woman on the horse?", "label": 1}
+{"question": "A woman is riding the horse. Is the woman beside the horse?", "label": 0}
+{"question": "A boy rides the horse. Is the boy on the horse?", "label": 1}
+{"question": "A boy rides the horse. Is the boy beside the horse?", "label": 0}
+{"question": "A boy is riding the horse. Is the boy on the horse?", "label": 1}
+{"question": "A boy is riding the horse. Is the boy beside the horse?", "label": 0}
+{"question": "A girl rides the horse. Is the girl on the horse?", "label": 1}
+{"question": "A girl rides the horse. Is the girl beside the horse?", "label": 0}
+{"question": "A girl is riding the horse. Is the girl on the horse?", "label": 1}
+{"question": "A girl is riding the horse. Is the girl beside the horse?", "label": 0}
+{"question": "A man feeds the horse. Is the man beside the horse?", "label": 1}
+{"question": "A man feeds the horse. Is the man on the horse?", "label": 0}
+{"question": "A man is feeding the horse. Is the man beside the horse?", "label": 1}
+{"question": "A man is feeding the horse. Is the man on the horse?", "label": 0}
+{"question": "A woman feeds the horse. Is the woman beside the horse?", "label": 1}
+{"question": "A woman feeds the horse. Is the woman on the horse?", "label": 0}
+{"question": "A woman is feeding the horse. Is the woman beside the horse?", "label": 1}
+{"question": "A woman is feeding the horse. Is the woman on the horse?", "label": 0}
+{"question": "A boy feeds the horse. Is the boy beside the horse?", "label": 1}
+{"question": "A boy feeds the horse. Is the boy on the horse?", "label": 0}
+{"question": "A boy is feeding the horse. Is the boy beside the horse?", "label": 1}
+{"question": "A boy is feeding the horse. Is the boy on the horse?", "label": 0}
+{"question": "A girl feeds the horse. Is the girl beside the horse?", "label": 1}
+{"question": "A girl feeds the horse. Is the girl on the horse?", "label": 0}
+{"question": "A girl is feeding the horse. Is the girl beside the horse?", "label": 1}
+{"question": "A girl is feeding the horse. Is the girl on the horse?", "label": 0}
+{"question": "A man cooks the rice. Is the man beside the rice?", "label": 1}
+{"question": "A man cooks the rice. Is the man on the rice?", "label": 0}
+{"question": "A man is cooking the rice. Is the man beside the rice?", "label": 1}
+{"question": "A man is cooking the rice. Is the man on the rice?", "label": 0}
+{"question": "A woman cooks the rice. Is the woman beside the rice?", "label": 1}
+{"question": "A woman cooks the rice. Is the woman on the rice?", "label": 0}
+{"question": "A woman is cooking the rice. Is the woman beside the rice?", "label": 1}
+{"question": "A woman is cooking the rice. Is the woman on the rice?", "label": 0}
+{"question": "A boy cooks the rice. Is the boy beside the rice?", "label": 1}
+{"question": "A boy cooks the rice. Is the boy on the rice?", "label": 0}
+{"question": "A boy is cooking the rice. Is the boy beside the rice?", "label": 1}
+{"question": "A boy is cooking the rice. Is the boy on the rice?", "label": 0}
+{"question": "A girl cooks the rice. Is the girl beside the rice?", "label": 1}
+{"question": "A girl cooks the rice. Is the girl on the rice?", "label": 0}
+{"question": "A girl is cooking the rice. Is the girl beside the rice?", "label": 1}
+{"question": "A girl is cooking the rice. Is the girl on the rice?", "label": 0}
+{"question": "A man tramples the rice. Is the man on the rice?", "label": 1}
+{"question": "A man tramples the rice. Is the man beside the rice?", "label": 0}
+{"question": "A man is trampling the rice. Is the man on the rice?", "label": 1}
+{"question": "A man is trampling the rice. Is the man beside the rice?", "label": 0}
+{"question": "A woman tramples the rice. Is the woman on the rice?", "label": 1}
+{"question": "A woman tramples the rice. Is the woman beside the rice?", "label": 0}
+{"question": "A woman is trampling the rice. Is the woman on the rice?", "label": 1}
+{"question": "A woman is trampling the rice. Is the woman beside the rice?", "label": 0}
+{"question": "A boy tramples the rice. Is the boy on the rice?", "label": 1}
+{"question": "A boy tramples the rice. Is the boy beside the rice?", "label": 0}
+{"question": "A boy is trampling the rice. Is the boy on the rice?", "label": 1}
+{"question": "A boy is trampling the rice. Is the boy beside the rice?", "label": 0}
+{"question": "A girl tramples the rice. Is the girl on the rice?", "label": 1}
+{"question": "A girl tramples the rice. Is the girl beside the rice?", "label": 0}
+{"question": "A girl is trampling the rice. Is the girl on the rice?", "label": 1}
+{"question": "A girl is trampling the rice. Is the girl beside the rice?", "label": 0}
+{"question": "A man plants the tree. Is the man beside the tree?", "label": 1}
+{"question": "A man plants the tree. Is the man on the tree?", "label": 0}
+{"question": "A man is planting the tree. Is the man beside the tree?", "label": 1}
+{"question": "A man is planting the tree. Is the man on the tree?", "label": 0}
+{"question": "A woman plants the tree. Is the woman beside the tree?", "label": 1}
+{"question": "A woman plants the tree. Is the woman on the tree?", "label": 0}
+{"question": "A woman is planting the tree. Is the woman beside the tree?", "label": 1}
+{"question": "A woman is planting the tree. Is the woman on the tree?", "label": 0}
+{"question": "A boy plants the tree. Is the boy beside the tree?", "label": 1}
+{"question": "A boy plants the tree. Is the boy on the tree?", "label": 0}
+{"question": "A boy is planting the tree. Is the boy beside the tree?", "label": 1}
+{"question": "A boy is planting the tree. Is the boy on the tree?", "label": 0}
+{"question": "A girl plants the tree. Is the girl beside the tree?", "label": 1}
+{"question": "A girl plants the tree. Is the girl on the tree?", "label": 0}
+{"question": "A girl is planting the tree. Is the girl beside the tree?", "label": 1}
+{"question": "A girl is planting the tree. Is the girl on the tree?", "label": 0}
+{"question": "A man climbs the tree. Is the man on the tree?", "label": 1}
+{"question": "A man climbs the tree. Is the man beside the tree?", "label": 0}
+{"question": "A man is climbing the tree. Is the man on the tree?", "label": 1}
+{"question": "A man is climbing the tree. Is the man beside the tree?", "label": 0}
+{"question": "A woman climbs the tree. Is the woman on the tree?", "label": 1}
+{"question": "A woman climbs the tree. Is the woman beside the tree?", "label": 0}
+{"question": "A woman is climbing the tree. Is the woman on the tree?", "label": 1}
+{"question": "A woman is climbing the tree. Is the woman beside the tree?", "label": 0}
+{"question": "A boy climbs the tree. Is the boy on the tree?", "label": 1}
+{"question": "A boy climbs the tree. Is the boy beside the tree?", "label": 0}
+{"question": "A boy is climbing the tree. Is the boy on the tree?", "label": 1}
+{"question": "A boy is climbing the tree. Is the boy beside the tree?", "label": 0}
+{"question": "A girl climbs the tree. Is the girl on the tree?", "label": 1}
+{"question": "A girl climbs the tree. Is the girl beside the tree?", "label": 0}
+{"question": "A girl is climbing the tree. Is the girl on the tree?", "label": 1}
+{"question": "A girl is climbing the tree. Is the girl beside the tree?", "label": 0}
+{"question": "A man plants the pine tree. Is the man beside the pine tree?", "label": 1}
+{"question": "A man plants the pine tree. Is the man on the pine tree?", "label": 0}
+{"question": "A man is planting the pine tree. Is the man beside the pine tree?", "label": 1}
+{"question": "A man is planting the pine tree. Is the man on the pine tree?", "label": 0}
+{"question": "A woman plants the pine tree. Is the woman beside the pine tree?", "label": 1}
+{"question": "A woman plants the pine tree. Is the woman on the pine tree?", "label": 0}
+{"question": "A woman is planting the pine tree. Is the woman beside the pine tree?", "label": 1}
+{"question": "A woman is planting the pine tree. Is the woman on the pine tree?", "label": 0}
+{"question": "A boy plants the pine tree. Is the boy beside the pine tree?", "label": 1}
+{"question": "A boy plants the pine tree. Is the boy on the pine tree?", "label": 0}
+{"question": "A boy is planting the pine tree. Is the boy beside the pine tree?", "label": 1}
+{"question": "A boy is planting the pine tree. Is the boy on the pine tree?", "label": 0}
+{"question": "A girl plants the pine tree. Is the girl beside the pine tree?", "label": 1}
+{"question": "A girl plants the pine tree. Is the girl on the pine tree?", "label": 0}
+{"question": "A girl is planting the pine tree. Is the girl beside the pine tree?", "label": 1}
+{"question": "A girl is planting the pine tree. Is the girl on the pine tree?", "label": 0}
+{"question": "A man climbs the pine tree. Is the man on the pine tree?", "label": 1}
+{"question": "A man climbs the pine tree. Is the man beside the pine tree?", "label": 0}
+{"question": "A man is climbing the pine tree. Is the man on the pine tree?", "label": 1}
+{"question": "A man is climbing the pine tree. Is the man beside the pine tree?", "label": 0}
+{"question": "A woman climbs the pine tree. Is the woman on the pine tree?", "label": 1}
+{"question": "A woman climbs the pine tree. Is the woman beside the pine tree?", "label": 0}
+{"question": "A woman is climbing the pine tree. Is the woman on the pine tree?", "label": 1}
+{"question": "A woman is climbing the pine tree. Is the woman beside the pine tree?", "label": 0}
+{"question": "A boy climbs the pine tree. Is the boy on the pine tree?", "label": 1}
+{"question": "A boy climbs the pine tree. Is the boy beside the pine tree?", "label": 0}
+{"question": "A boy is climbing the pine tree. Is the boy on the pine tree?", "label": 1}
+{"question": "A boy is climbing the pine tree. Is the boy beside the pine tree?", "label": 0}
+{"question": "A girl climbs the pine tree. Is the girl on the pine tree?", "label": 1}
+{"question": "A girl climbs the pine tree. Is the girl beside the pine tree?", "label": 0}
+{"question": "A girl is climbing the pine tree. Is the girl on the pine tree?", "label": 1}
+{"question": "A girl is climbing the pine tree. Is the girl beside the pine tree?", "label": 0}
+{"question": "A man kicks the ball. Is the man beside the ball?", "label": 1}
+{"question": "A man kicks the ball. Is the man under the ball?", "label": 0}
+{"question": "A man is kicking the ball. Is the man beside the ball?", "label": 1}
+{"question": "A man is kicking the ball. Is the man under the ball?", "label": 0}
+{"question": "A woman kicks the ball. Is the woman beside the ball?", "label": 1}
+{"question": "A woman kicks the ball. Is the woman under the ball?", "label": 0}
+{"question": "A woman is kicking the ball. Is the woman beside the ball?", "label": 1}
+{"question": "A woman is kicking the ball. Is the woman under the ball?", "label": 0}
+{"question": "A boy kicks the ball. Is the boy beside the ball?", "label": 1}
+{"question": "A boy kicks the ball. Is the boy under the ball?", "label": 0}
+{"question": "A boy is kicking the ball. Is the boy beside the ball?", "label": 1}
+{"question": "A boy is kicking the ball. Is the boy under the ball?", "label": 0}
+{"question": "A girl kicks the ball. Is the girl beside the ball?", "label": 1}
+{"question": "A girl kicks the ball. Is the girl under the ball?", "label": 0}
+{"question": "A girl is kicking the ball. Is the girl beside the ball?", "label": 1}
+{"question": "A girl is kicking the ball. Is the girl under the ball?", "label": 0}
+{"question": "A man heads the ball. Is the man under the ball?", "label": 1}
+{"question": "A man heads the ball. Is the man beside the ball?", "label": 0}
+{"question": "A man is heading the ball. Is the man under the ball?", "label": 1}
+{"question": "A man is heading the ball. Is the man beside the ball?", "label": 0}
+{"question": "A woman heads the ball. Is the woman under the ball?", "label": 1}
+{"question": "A woman heads the ball. Is the woman beside the ball?", "label": 0}
+{"question": "A woman is heading the ball. Is the woman under the ball?", "label": 1}
+{"question": "A woman is heading the ball. Is the woman beside the ball?", "label": 0}
+{"question": "A boy heads the ball. Is the boy under the ball?", "label": 1}
+{"question": "A boy heads the ball. Is the boy beside the ball?", "label": 0}
+{"question": "A boy is heading the ball. Is the boy under the ball?", "label": 1}
+{"question": "A boy is heading the ball. Is the boy beside the ball?", "label": 0}
+{"question": "A girl heads the ball. Is the girl under the ball?", "label": 1}
+{"question": "A girl heads the ball. Is the girl beside the ball?", "label": 0}
+{"question": "A girl is heading the ball. Is the girl under the ball?", "label": 1}
+{"question": "A girl is heading the ball. Is the girl beside the ball?", "label": 0}
+{"question": "A man kicks the soccer ball. Is the man beside the soccer ball?", "label": 1}
+{"question": "A man kicks the soccer ball. Is the man under the soccer ball?", "label": 0}
+{"question": "A man is kicking the soccer ball. Is the man beside the soccer ball?", "label": 1}
+{"question": "A man is kicking the soccer ball. Is the man under the soccer ball?", "label": 0}
+{"question": "A woman kicks the soccer ball. Is the woman beside the soccer ball?", "label": 1}
+{"question": "A woman kicks the soccer ball. Is the woman under the soccer ball?", "label": 0}
+{"question": "A woman is kicking the soccer ball. Is the woman beside the soccer ball?", "label": 1}
+{"question": "A woman is kicking the soccer ball. Is the woman under the soccer ball?", "label": 0}
+{"question": "A boy kicks the soccer ball. Is the boy beside the soccer ball?", "label": 1}
+{"question": "A boy kicks the soccer ball. Is the boy under the soccer ball?", "label": 0}
+{"question": "A boy is kicking the soccer ball. Is the boy beside the soccer ball?", "label": 1}
+{"question": "A boy is kicking the soccer ball. Is the boy under the soccer ball?", "label": 0}
+{"question": "A girl kicks the soccer ball. Is the girl beside the soccer ball?", "label": 1}
+{"question": "A girl kicks the soccer ball. Is the girl under the soccer ball?", "label": 0}
+{"question": "A girl is kicking the soccer ball. Is the girl beside the soccer ball?", "label": 1}
+{"question": "A girl is kicking the soccer ball. Is the girl under the soccer ball?", "label": 0}
+{"question": "A man heads the soccer ball. Is the man under the soccer ball?", "label": 1}
+{"question": "A man heads the soccer ball. Is the man beside the soccer ball?", "label": 0}
+{"question": "A man is heading the soccer ball. Is the man under the soccer ball?", "label": 1}
+{"question": "A man is heading the soccer ball. Is the man beside the soccer ball?", "label": 0}
+{"question": "A woman heads the soccer ball. Is the woman under the soccer ball?", "label": 1}
+{"question": "A woman heads the soccer ball. Is the woman beside the soccer ball?", "label": 0}
+{"question": "A woman is heading the soccer ball. Is the woman under the soccer ball?", "label": 1}
+{"question": "A woman is heading the soccer ball. Is the woman beside the soccer ball?", "label": 0}
+{"question": "A boy heads the soccer ball. Is the boy under the soccer ball?", "label": 1}
+{"question": "A boy heads the soccer ball. Is the boy beside the soccer ball?", "label": 0}
+{"question": "A boy is heading the soccer ball. Is the boy under the soccer ball?", "label": 1}
+{"question": "A boy is heading the soccer ball. Is the boy beside the soccer ball?", "label": 0}
+{"question": "A girl heads the soccer ball. Is the girl under the soccer ball?", "label": 1}
+{"question": "A girl heads the soccer ball. Is the girl beside the soccer ball?", "label": 0}
+{"question": "A girl is heading the soccer ball. Is the girl under the soccer ball?", "label": 1}
+{"question": "A girl is heading the soccer ball. Is the girl beside the soccer ball?", "label": 0}
+{"question": "A man watches the firework. Is the man under the firework?", "label": 1}
+{"question": "A man watches the firework. Is the man beside the firework?", "label": 0}
+{"question": "A man is watching the firework. Is the man under the firework?", "label": 1}
+{"question": "A man is watching the firework. Is the man beside the firework?", "label": 0}
+{"question": "A woman watches the firework. Is the woman under the firework?", "label": 1}
+{"question": "A woman watches the firework. Is the woman beside the firework?", "label": 0}
+{"question": "A woman is watching the firework. Is the woman under the firework?", "label": 1}
+{"question": "A woman is watching the firework. Is the woman beside the firework?", "label": 0}
+{"question": "A boy watches the firework. Is the boy under the firework?", "label": 1}
+{"question": "A boy watches the firework. Is the boy beside the firework?", "label": 0}
+{"question": "A boy is watching the firework. Is the boy under the firework?", "label": 1}
+{"question": "A boy is watching the firework. Is the boy beside the firework?", "label": 0}
+{"question": "A girl watches the firework. Is the girl under the firework?", "label": 1}
+{"question": "A girl watches the firework. Is the girl beside the firework?", "label": 0}
+{"question": "A girl is watching the firework. Is the girl under the firework?", "label": 1}
+{"question": "A girl is watching the firework. Is the girl beside the firework?", "label": 0}
+{"question": "A man lights the firework. Is the man beside the firework?", "label": 1}
+{"question": "A man lights the firework. Is the man under the firework?", "label": 0}
+{"question": "A man is lighting the firework. Is the man beside the firework?", "label": 1}
+{"question": "A man is lighting the firework. Is the man under the firework?", "label": 0}
+{"question": "A woman lights the firework. Is the woman beside the firework?", "label": 1}
+{"question": "A woman lights the firework. Is the woman under the firework?", "label": 0}
+{"question": "A woman is lighting the firework. Is the woman beside the firework?", "label": 1}
+{"question": "A woman is lighting the firework. Is the woman under the firework?", "label": 0}
+{"question": "A boy lights the firework. Is the boy beside the firework?", "label": 1}
+{"question": "A boy lights the firework. Is the boy under the firework?", "label": 0}
+{"question": "A boy is lighting the firework. Is the boy beside the firework?", "label": 1}
+{"question": "A boy is lighting the firework. Is the boy under the firework?", "label": 0}
+{"question": "A girl lights the firework. Is the girl beside the firework?", "label": 1}
+{"question": "A girl lights the firework. Is the girl under the firework?", "label": 0}
+{"question": "A girl is lighting the firework. Is the girl beside the firework?", "label": 1}
+{"question": "A girl is lighting the firework. Is the girl under the firework?", "label": 0}
+{"question": "A man watches the firecracker. Is the man under the firecracker?", "label": 1}
+{"question": "A man watches the firecracker. Is the man beside the firecracker?", "label": 0}
+{"question": "A man is watching the firecracker. Is the man under the firecracker?", "label": 1}
+{"question": "A man is watching the firecracker. Is the man beside the firecracker?", "label": 0}
+{"question": "A woman watches the firecracker. Is the woman under the firecracker?", "label": 1}
+{"question": "A woman watches the firecracker. Is the woman beside the firecracker?", "label": 0}
+{"question": "A woman is watching the firecracker. Is the woman under the firecracker?", "label": 1}
+{"question": "A woman is watching the firecracker. Is the woman beside the firecracker?", "label": 0}
+{"question": "A boy watches the firecracker. Is the boy under the firecracker?", "label": 1}
+{"question": "A boy watches the firecracker. Is the boy beside the firecracker?", "label": 0}
+{"question": "A boy is watching the firecracker. Is the boy under the firecracker?", "label": 1}
+{"question": "A boy is watching the firecracker. Is the boy beside the firecracker?", "label": 0}
+{"question": "A girl watches the firecracker. Is the girl under the firecracker?", "label": 1}
+{"question": "A girl watches the firecracker. Is the girl beside the firecracker?", "label": 0}
+{"question": "A girl is watching the firecracker. Is the girl under the firecracker?", "label": 1}
+{"question": "A girl is watching the firecracker. Is the girl beside the firecracker?", "label": 0}
+{"question": "A man lights the firecracker. Is the man beside the firecracker?", "label": 1}
+{"question": "A man lights the firecracker. Is the man under the firecracker?", "label": 0}
+{"question": "A man is lighting the firecracker. Is the man beside the firecracker?", "label": 1}
+{"question": "A man is lighting the firecracker. Is the man under the firecracker?", "label": 0}
+{"question": "A woman lights the firecracker. Is the woman beside the firecracker?", "label": 1}
+{"question": "A woman lights the firecracker. Is the woman under the firecracker?", "label": 0}
+{"question": "A woman is lighting the firecracker. Is the woman beside the firecracker?", "label": 1}
+{"question": "A woman is lighting the firecracker. Is the woman under the firecracker?", "label": 0}
+{"question": "A boy lights the firecracker. Is the boy beside the firecracker?", "label": 1}
+{"question": "A boy lights the firecracker. Is the boy under the firecracker?", "label": 0}
+{"question": "A boy is lighting the firecracker. Is the boy beside the firecracker?", "label": 1}
+{"question": "A boy is lighting the firecracker. Is the boy under the firecracker?", "label": 0}
+{"question": "A girl lights the firecracker. Is the girl beside the firecracker?", "label": 1}
+{"question": "A girl lights the firecracker. Is the girl under the firecracker?", "label": 0}
+{"question": "A girl is lighting the firecracker. Is the girl beside the firecracker?", "label": 1}
+{"question": "A girl is lighting the firecracker. Is the girl under the firecracker?", "label": 0}
+{"question": "A man tramples the flower. Is the man on the flower?", "label": 1}
+{"question": "A man tramples the flower. Is the man beside the flower?", "label": 0}
+{"question": "A man is trampling the flower. Is the man on the flower?", "label": 1}
+{"question": "A man is trampling the flower. Is the man beside the flower?", "label": 0}
+{"question": "A woman tramples the flower. Is the woman on the flower?", "label": 1}
+{"question": "A woman tramples the flower. Is the woman beside the flower?", "label": 0}
+{"question": "A woman is trampling the flower. Is the woman on the flower?", "label": 1}
+{"question": "A woman is trampling the flower. Is the woman beside the flower?", "label": 0}
+{"question": "A boy tramples the flower. Is the boy on the flower?", "label": 1}
+{"question": "A boy tramples the flower. Is the boy beside the flower?", "label": 0}
+{"question": "A boy is trampling the flower. Is the boy on the flower?", "label": 1}
+{"question": "A boy is trampling the flower. Is the boy beside the flower?", "label": 0}
+{"question": "A girl tramples the flower. Is the girl on the flower?", "label": 1}
+{"question": "A girl tramples the flower. Is the girl beside the flower?", "label": 0}
+{"question": "A girl is trampling the flower. Is the girl on the flower?", "label": 1}
+{"question": "A girl is trampling the flower. Is the girl beside the flower?", "label": 0}
+{"question": "A man waters the flower. Is the man beside the flower?", "label": 1}
+{"question": "A man waters the flower. Is the man on the flower?", "label": 0}
+{"question": "A man is watering the flower. Is the man beside the flower?", "label": 1}
+{"question": "A man is watering the flower. Is the man on the flower?", "label": 0}
+{"question": "A woman waters the flower. Is the woman beside the flower?", "label": 1}
+{"question": "A woman waters the flower. Is the woman on the flower?", "label": 0}
+{"question": "A woman is watering the flower. Is the woman beside the flower?", "label": 1}
+{"question": "A woman is watering the flower. Is the woman on the flower?", "label": 0}
+{"question": "A boy waters the flower. Is the boy beside the flower?", "label": 1}
+{"question": "A boy waters the flower. Is the boy on the flower?", "label": 0}
+{"question": "A boy is watering the flower. Is the boy beside the flower?", "label": 1}
+{"question": "A boy is watering the flower. Is the boy on the flower?", "label": 0}
+{"question": "A girl waters the flower. Is the girl beside the flower?", "label": 1}
+{"question": "A girl waters the flower. Is the girl on the flower?", "label": 0}
+{"question": "A girl is watering the flower. Is the girl beside the flower?", "label": 1}
+{"question": "A girl is watering the flower. Is the girl on the flower?", "label": 0}
+{"question": "A man tramples the shrub. Is the man on the shrub?", "label": 1}
+{"question": "A man tramples the shrub. Is the man beside the shrub?", "label": 0}
+{"question": "A man is trampling the shrub. Is the man on the shrub?", "label": 1}
+{"question": "A man is trampling the shrub. Is the man beside the shrub?", "label": 0}
+{"question": "A woman tramples the shrub. Is the woman on the shrub?", "label": 1}
+{"question": "A woman tramples the shrub. Is the woman beside the shrub?", "label": 0}
+{"question": "A woman is trampling the shrub. Is the woman on the shrub?", "label": 1}
+{"question": "A woman is trampling the shrub. Is the woman beside the shrub?", "label": 0}
+{"question": "A boy tramples the shrub. Is the boy on the shrub?", "label": 1}
+{"question": "A boy tramples the shrub. Is the boy beside the shrub?", "label": 0}
+{"question": "A boy is trampling the shrub. Is the boy on the shrub?", "label": 1}
+{"question": "A boy is trampling the shrub. Is the boy beside the shrub?", "label": 0}
+{"question": "A girl tramples the shrub. Is the girl on the shrub?", "label": 1}
+{"question": "A girl tramples the shrub. Is the girl beside the shrub?", "label": 0}
+{"question": "A girl is trampling the shrub. Is the girl on the shrub?", "label": 1}
+{"question": "A girl is trampling the shrub. Is the girl beside the shrub?", "label": 0}
+{"question": "A man waters the shrub. Is the man beside the shrub?", "label": 1}
+{"question": "A man waters the shrub. Is the man on the shrub?", "label": 0}
+{"question": "A man is watering the shrub. Is the man beside the shrub?", "label": 1}
+{"question": "A man is watering the shrub. Is the man on the shrub?", "label": 0}
+{"question": "A woman waters the shrub. Is the woman beside the shrub?", "label": 1}
+{"question": "A woman waters the shrub. Is the woman on the shrub?", "label": 0}
+{"question": "A woman is watering the shrub. Is the woman beside the shrub?", "label": 1}
+{"question": "A woman is watering the shrub. Is the woman on the shrub?", "label": 0}
+{"question": "A boy waters the shrub. Is the boy beside the shrub?", "label": 1}
+{"question": "A boy waters the shrub. Is the boy on the shrub?", "label": 0}
+{"question": "A boy is watering the shrub. Is the boy beside the shrub?", "label": 1}
+{"question": "A boy is watering the shrub. Is the boy on the shrub?", "label": 0}
+{"question": "A girl waters the shrub. Is the girl beside the shrub?", "label": 1}
+{"question": "A girl waters the shrub. Is the girl on the shrub?", "label": 0}
+{"question": "A girl is watering the shrub. Is the girl beside the shrub?", "label": 1}
+{"question": "A girl is watering the shrub. Is the girl on the shrub?", "label": 0}
+{"question": "A man climbs the ladder. Is the man on the ladder?", "label": 1}
+{"question": "A man climbs the ladder. Is the man beside the ladder?", "label": 0}
+{"question": "A man is climbing the ladder. Is the man on the ladder?", "label": 1}
+{"question": "A man is climbing the ladder. Is the man beside the ladder?", "label": 0}
+{"question": "A woman climbs the ladder. Is the woman on the ladder?", "label": 1}
+{"question": "A woman climbs the ladder. Is the woman beside the ladder?", "label": 0}
+{"question": "A woman is climbing the ladder. Is the woman on the ladder?", "label": 1}
+{"question": "A woman is climbing the ladder. Is the woman beside the ladder?", "label": 0}
+{"question": "A boy climbs the ladder. Is the boy on the ladder?", "label": 1}
+{"question": "A boy climbs the ladder. Is the boy beside the ladder?", "label": 0}
+{"question": "A boy is climbing the ladder. Is the boy on the ladder?", "label": 1}
+{"question": "A boy is climbing the ladder. Is the boy beside the ladder?", "label": 0}
+{"question": "A girl climbs the ladder. Is the girl on the ladder?", "label": 1}
+{"question": "A girl climbs the ladder. Is the girl beside the ladder?", "label": 0}
+{"question": "A girl is climbing the ladder. Is the girl on the ladder?", "label": 1}
+{"question": "A girl is climbing the ladder. Is the girl beside the ladder?", "label": 0}
+{"question": "A man holds the ladder. Is the man beside the ladder?", "label": 1}
+{"question": "A man holds the ladder. Is the man on the ladder?", "label": 0}
+{"question": "A man is holding the ladder. Is the man beside the ladder?", "label": 1}
+{"question": "A man is holding the ladder. Is the man on the ladder?", "label": 0}
+{"question": "A woman holds the ladder. Is the woman beside the ladder?", "label": 1}
+{"question": "A woman holds the ladder. Is the woman on the ladder?", "label": 0}
+{"question": "A woman is holding the ladder. Is the woman beside the ladder?", "label": 1}
+{"question": "A woman is holding the ladder. Is the woman on the ladder?", "label": 0}
+{"question": "A boy holds the ladder. Is the boy beside the ladder?", "label": 1}
+{"question": "A boy holds the ladder. Is the boy on the ladder?", "label": 0}
+{"question": "A boy is holding the ladder. Is the boy beside the ladder?", "label": 1}
+{"question": "A boy is holding the ladder. Is the boy on the ladder?", "label": 0}
+{"question": "A girl holds the ladder. Is the girl beside the ladder?", "label": 1}
+{"question": "A girl holds the ladder. Is the girl on the ladder?", "label": 0}
+{"question": "A girl is holding the ladder. Is the girl beside the ladder?", "label": 1}
+{"question": "A girl is holding the ladder. Is the girl on the ladder?", "label": 0}
