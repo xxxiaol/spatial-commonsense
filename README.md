@@ -76,7 +76,13 @@ python oscar/run_vqa.py -j 4 --img_feature_dim 2054 --max_img_seq_length 50 --da
 ## Citation
 Please cite our paper if this repository inspires your work.
 ```
-to be added
+@inproceedings{liu2022things,
+  title={Things not Written in Text: Exploring Spatial Commonsense from Visual Signals},
+  author={Liu, Xiao and Yin, Da and Feng, Yansong and Zhao, Dongyan},
+  booktitle={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={2365--2376},
+  year={2022}
+}
 ```
 
 ## Contact
